@@ -49,4 +49,8 @@ items:
   target: "/equipe/"
   kind: page
   children: []
+- title: A propos
+  target: "/a-propos/"
+  kind: page
+  children: []
 
