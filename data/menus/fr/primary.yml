@@ -25,8 +25,4 @@ items:
   target: "/prototypes/"
   kind: page
   children: []
-- title: Organisations
-  target: "/organisations/"
-  kind: page
-  children: []
 
