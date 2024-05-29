@@ -13,6 +13,10 @@ items:
   target: "/actions/"
   kind: page
   children: []
+- title: Partenaires
+  target: "/partenaires/"
+  kind: page
+  children: []
 - title: Actualités
   target: "/actualites/"
   kind: page
