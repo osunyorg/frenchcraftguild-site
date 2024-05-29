@@ -13,10 +13,6 @@ items:
   target: "/membres/"
   kind: page
   children: []
-- title: Manifeste
-  target: "/manifeste/"
-  kind: page
-  children: []
 - title: Partenaires
   target: "/partenaires/"
   kind: page
