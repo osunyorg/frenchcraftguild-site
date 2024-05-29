@@ -5,6 +5,10 @@ items:
   target: "/a-propos/"
   kind: page
   children: []
+- title: Vision & missions
+  target: "/vision-missions/"
+  kind: page
+  children: []
 - title: Manifeste
   target: "/manifeste/"
   kind: page
@@ -39,10 +43,6 @@ items:
   children: []
 - title: Organisations
   target: "/organisations/"
-  kind: page
-  children: []
-- title: Vision & missions
-  target: "/vision-missions/"
   kind: page
   children: []
 
