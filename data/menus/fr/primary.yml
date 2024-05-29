@@ -45,4 +45,8 @@ items:
   target: "/organisations/"
   kind: page
   children: []
+- title: Membres
+  target: "/membres/"
+  kind: page
+  children: []
 
