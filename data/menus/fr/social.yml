@@ -5,4 +5,8 @@ items:
   target: https://www.linkedin.com/company/french-craft-guild
   kind: url
   children: []
+- title: Instagram
+  target: https://www.instagram.com/frenchcraftguild
+  kind: url
+  children: []
 
