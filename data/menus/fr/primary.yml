@@ -17,6 +17,10 @@ items:
   target: "/actions/"
   kind: page
   children: []
+- title: Membres
+  target: "/membres/"
+  kind: page
+  children: []
 - title: Partenaires
   target: "/partenaires/"
   kind: page
@@ -43,10 +47,6 @@ items:
   children: []
 - title: Organisations
   target: "/organisations/"
-  kind: page
-  children: []
-- title: Membres
-  target: "/membres/"
   kind: page
   children: []
 
