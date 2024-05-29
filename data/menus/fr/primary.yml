@@ -29,8 +29,4 @@ items:
   target: "/organisations/"
   kind: page
   children: []
-- title: Actualités
-  target: "/actualites/"
-  kind: page
-  children: []
 
