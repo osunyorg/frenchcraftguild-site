@@ -13,4 +13,8 @@ items:
   target: "/organisations/"
   kind: page
   children: []
+- title: Manifeste
+  target: "/manifeste/"
+  kind: page
+  children: []
 
