@@ -5,6 +5,10 @@ items:
   target: "/a-propos/"
   kind: page
   children: []
+- title: Membres
+  target: "/membres/"
+  kind: page
+  children: []
 - title: Vision & missions
   target: "/vision-missions/"
   kind: page
@@ -15,10 +19,6 @@ items:
   children: []
 - title: Actions
   target: "/actions/"
-  kind: page
-  children: []
-- title: Membres
-  target: "/membres/"
   kind: page
   children: []
 - title: Partenaires
@@ -51,6 +51,14 @@ items:
   children: []
 - title: A propos
   target: "/a-propos/"
+  kind: page
+  children: []
+- title: Membres
+  target: "/membres/"
+  kind: page
+  children: []
+- title: Actions
+  target: "/actions/"
   kind: page
   children: []
 
