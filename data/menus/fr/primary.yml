@@ -29,4 +29,8 @@ items:
   target: "/e-showroom/"
   kind: page
   children: []
+- title: Vision & missions
+  target: "/vision-missions/"
+  kind: page
+  children: []
 
