@@ -21,8 +21,4 @@ items:
   target: "/e-showroom/"
   kind: page
   children: []
-- title: Prototypes
-  target: "/prototypes/"
-  kind: page
-  children: []
 
