@@ -1,8 +1,20 @@
 ---
 title: Menu principal
 items:
+- title: A propos
+  target: "/a-propos/"
+  kind: page
+  children: []
+- title: Manifeste
+  target: "/manifeste/"
+  kind: page
+  children: []
 - title: Actualités
   target: "/actualites/"
+  kind: page
+  children: []
+- title: Ressources
+  target: "/ressources/"
   kind: page
   children: []
 - title: Équipe
@@ -13,16 +25,8 @@ items:
   target: "/organisations/"
   kind: page
   children: []
-- title: Manifeste
-  target: "/manifeste/"
-  kind: page
-  children: []
-- title: A propos
-  target: "/a-propos/"
-  kind: page
-  children: []
-- title: Ressources
-  target: "/ressources/"
+- title: e-showroom
+  target: "/e-showroom/"
   kind: page
   children: []
 
