@@ -5,6 +5,10 @@ items:
   target: "/a-propos/"
   kind: page
   children: []
+- title: Actions
+  target: "/actions/"
+  kind: page
+  children: []
 - title: Membres
   target: "/membres/"
   kind: page
@@ -15,10 +19,6 @@ items:
   children: []
 - title: Manifeste
   target: "/manifeste/"
-  kind: page
-  children: []
-- title: Actions
-  target: "/actions/"
   kind: page
   children: []
 - title: Partenaires
