@@ -45,8 +45,4 @@ items:
   target: "/membres/"
   kind: page
   children: []
-- title: Actions
-  target: "/actions/"
-  kind: page
-  children: []
 
