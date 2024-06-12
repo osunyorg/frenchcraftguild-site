@@ -41,4 +41,8 @@ items:
   target: "/membres/"
   kind: page
   children: []
+- title: Actualités
+  target: "/actualites/"
+  kind: page
+  children: []
 
