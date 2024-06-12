@@ -24,7 +24,11 @@ items:
 - title: Actions
   target: "/actions/"
   kind: page
-  children: []
+  children:
+  - title: Ressources
+    target: "/ressources/"
+    kind: page
+    children: []
 - title: Membres
   target: "/membres/"
   kind: page
