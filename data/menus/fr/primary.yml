@@ -13,6 +13,10 @@ items:
     target: "/manifeste/"
     kind: page
     children: []
+  - title: Gouvernance
+    target: "/gouvernance/"
+    kind: page
+    children: []
 - title: Actions
   target: "/actions/"
   kind: page
