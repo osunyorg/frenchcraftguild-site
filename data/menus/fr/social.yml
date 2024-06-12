@@ -9,4 +9,8 @@ items:
   target: https://www.instagram.com/frenchcraftguild
   kind: url
   children: []
+- title: Abonnez-vous à notre newsletter
+  target: https://mailchi.mp/abc3f974d33b/letskeepinfrenchtouch
+  kind: url
+  children: []
 
