@@ -4,7 +4,11 @@ items:
 - title: A propos
   target: "/a-propos/"
   kind: page
-  children: []
+  children:
+  - title: Vision & missions
+    target: "/vision-missions/"
+    kind: page
+    children: []
 - title: Actions
   target: "/actions/"
   kind: page
