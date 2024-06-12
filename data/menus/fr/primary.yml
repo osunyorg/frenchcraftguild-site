@@ -10,7 +10,7 @@ items:
     kind: page
     children: []
   - title: Manifeste
-    target: "/manifeste/"
+    target: "/manifeste-craftpower/"
     kind: page
     children: []
   - title: Gouvernance
