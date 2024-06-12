@@ -17,6 +17,10 @@ items:
     target: "/gouvernance/"
     kind: page
     children: []
+  - title: Partenaires
+    target: "/partenaires/"
+    kind: page
+    children: []
 - title: Actions
   target: "/actions/"
   kind: page
