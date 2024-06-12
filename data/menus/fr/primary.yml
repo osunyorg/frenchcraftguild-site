@@ -9,16 +9,16 @@ items:
     target: "/vision-missions/"
     kind: page
     children: []
+  - title: Manifeste
+    target: "/manifeste/"
+    kind: page
+    children: []
 - title: Actions
   target: "/actions/"
   kind: page
   children: []
 - title: Membres
   target: "/membres/"
-  kind: page
-  children: []
-- title: Manifeste
-  target: "/manifeste/"
   kind: page
   children: []
 
