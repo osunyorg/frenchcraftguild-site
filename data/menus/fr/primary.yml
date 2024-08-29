@@ -37,6 +37,10 @@ items:
       target: "/ressources/webinaires/"
       kind: page
       children: []
+    - title: Événements & salons
+      target: "/ressources/evenements-salons/"
+      kind: page
+      children: []
   - title: e-showroom
     target: "/e-showroom/"
     kind: page
