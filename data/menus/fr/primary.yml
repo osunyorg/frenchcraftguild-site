@@ -33,6 +33,10 @@ items:
       target: "/ressources/workshops/"
       kind: page
       children: []
+    - title: Webinaires
+      target: "/ressources/webinaires/"
+      kind: page
+      children: []
   - title: e-showroom
     target: "/e-showroom/"
     kind: page
