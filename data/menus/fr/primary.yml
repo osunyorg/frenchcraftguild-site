@@ -29,20 +29,20 @@ items:
     target: "/ressources/"
     kind: page
     children:
-    - title: Rencontres
-      target: "/ressources/rencontres/"
+    - title: Événements & salons
+      target: "/ressources/evenements-salons/"
       kind: page
       children: []
-    - title: Workshops
-      target: "/ressources/workshops/"
+    - title: Rencontres
+      target: "/ressources/rencontres/"
       kind: page
       children: []
     - title: Webinaires
       target: "/ressources/webinaires/"
       kind: page
       children: []
-    - title: Événements & salons
-      target: "/ressources/evenements-salons/"
+    - title: Workshops
+      target: "/ressources/workshops/"
       kind: page
       children: []
     - title: Entre nous
