@@ -45,6 +45,10 @@ items:
       target: "/ressources/entre-nous/"
       kind: page
       children: []
+    - title: Rencontres
+      target: "/ressources/rencontres/"
+      kind: page
+      children: []
   - title: e-showroom
     target: "/e-showroom/"
     kind: page
