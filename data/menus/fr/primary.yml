@@ -28,7 +28,11 @@ items:
   - title: Ressources
     target: "/ressources/"
     kind: page
-    children: []
+    children:
+    - title: Workshops
+      target: "/ressources/workshops/"
+      kind: page
+      children: []
   - title: e-showroom
     target: "/e-showroom/"
     kind: page
