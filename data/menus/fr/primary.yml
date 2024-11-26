@@ -9,18 +9,23 @@ items:
     target: "/vision-missions/"
     kind: page
     children: []
+    file: content/fr/pages/vision-missions/_index.html
   - title: Manifeste
     target: "/manifeste-craftpower/"
     kind: page
     children: []
+    file: content/fr/pages/manifeste-craftpower/_index.html
   - title: Gouvernance
     target: "/gouvernance/"
     kind: page
     children: []
+    file: content/fr/pages/gouvernance/_index.html
   - title: Partenaires
     target: "/partenaires/"
     kind: page
     children: []
+    file: content/fr/pages/partenaires/_index.html
+  file: content/fr/pages/a-propos/_index.html
 - title: Actions
   target: "/actions/"
   kind: page
@@ -33,36 +38,47 @@ items:
       target: "/ressources/evenements-salons/"
       kind: page
       children: []
+      file: content/fr/pages/ressources/evenements-salons/_index.html
     - title: Rencontres
       target: "/ressources/rencontres/"
       kind: page
       children: []
+      file: content/fr/pages/ressources/rencontres/_index.html
     - title: Webinaires
       target: "/ressources/webinaires/"
       kind: page
       children: []
+      file: content/fr/pages/ressources/webinaires/_index.html
     - title: Workshops
       target: "/ressources/workshops/"
       kind: page
       children: []
+      file: content/fr/pages/ressources/workshops/_index.html
     - title: Entre nous
       target: "/ressources/entre-nous/"
       kind: page
       children: []
+      file: content/fr/pages/ressources/entre-nous/_index.html
+    file: content/fr/pages/ressources/_index.html
   - title: e-showroom
     target: "/e-showroom/"
     kind: page
     children: []
+    file: content/fr/pages/e-showroom/_index.html
   - title: Prototypes
     target: "/prototypes/"
     kind: page
     children: []
+    file: content/fr/pages/prototypes/_index.html
+  file: content/fr/pages/actions/_index.html
 - title: Membres
   target: "/membres/"
   kind: page
   children: []
+  file: content/fr/pages/membres/_index.html
 - title: Actualités
   target: "/actualites/"
   kind: page
   children: []
+  file: content/fr/posts/_index.html
 
