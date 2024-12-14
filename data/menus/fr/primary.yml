@@ -9,22 +9,27 @@ items:
     target: "/vision-missions/"
     kind: page
     children: []
+    path: "/pages/vision-missions"
     file: content/fr/pages/vision-missions/_index.html
   - title: Manifeste
     target: "/manifeste-craftpower/"
     kind: page
     children: []
+    path: "/pages/manifeste-craftpower"
     file: content/fr/pages/manifeste-craftpower/_index.html
   - title: Gouvernance
     target: "/gouvernance/"
     kind: page
     children: []
+    path: "/pages/gouvernance"
     file: content/fr/pages/gouvernance/_index.html
   - title: Partenaires
     target: "/partenaires/"
     kind: page
     children: []
+    path: "/pages/partenaires"
     file: content/fr/pages/partenaires/_index.html
+  path: "/pages/a-propos"
   file: content/fr/pages/a-propos/_index.html
 - title: Actions
   target: "/actions/"
@@ -38,47 +43,58 @@ items:
       target: "/ressources/evenements-salons/"
       kind: page
       children: []
+      path: "/pages/ressources/evenements-salons"
       file: content/fr/pages/ressources/evenements-salons/_index.html
     - title: Rencontres
       target: "/ressources/rencontres/"
       kind: page
       children: []
+      path: "/pages/ressources/rencontres"
       file: content/fr/pages/ressources/rencontres/_index.html
     - title: Webinaires
       target: "/ressources/webinaires/"
       kind: page
       children: []
+      path: "/pages/ressources/webinaires"
       file: content/fr/pages/ressources/webinaires/_index.html
     - title: Workshops
       target: "/ressources/workshops/"
       kind: page
       children: []
+      path: "/pages/ressources/workshops"
       file: content/fr/pages/ressources/workshops/_index.html
     - title: Entre nous
       target: "/ressources/entre-nous/"
       kind: page
       children: []
+      path: "/pages/ressources/entre-nous"
       file: content/fr/pages/ressources/entre-nous/_index.html
+    path: "/pages/ressources"
     file: content/fr/pages/ressources/_index.html
   - title: e-showroom
     target: "/e-showroom/"
     kind: page
     children: []
+    path: "/pages/e-showroom"
     file: content/fr/pages/e-showroom/_index.html
   - title: Prototypes
     target: "/prototypes/"
     kind: page
     children: []
+    path: "/pages/prototypes"
     file: content/fr/pages/prototypes/_index.html
+  path: "/pages/actions"
   file: content/fr/pages/actions/_index.html
 - title: Membres
   target: "/membres/"
   kind: page
   children: []
+  path: "/pages/membres"
   file: content/fr/pages/membres/_index.html
 - title: Actualités
   target: "/actualites/"
   kind: page
   children: []
+  path: "/posts"
   file: content/fr/posts/_index.html
 
