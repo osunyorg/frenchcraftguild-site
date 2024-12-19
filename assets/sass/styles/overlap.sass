@@ -1,0 +1,7 @@
+body.page-overlap
+    @include media-breakpoint-up(desktop)
+        // Extra space at the bottom of hero 
+        .hero
+            padding-bottom: space(40) !important
+        .document-content
+            margin-top: calc(-2 * var(--grid-gutter)) !important

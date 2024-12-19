@@ -1,35 +1,23 @@
-body.page-overlap
-    // Not working
-    @include full-page 
-    // Extra space at the bottom of hero 
-    .hero
-        padding-bottom: space(40) !important
-    .document-content
-        margin-top: calc(-2 * var(--grid-gutter)) !important
-
-.document-content
-    @include full-page
-        .toc-cta
+@include media-breakpoint-up(desktop)
+    body:not(.full-width),
+    .organizations__page
+        .toc-cta,
+        .toc-container
             display: none
         .blocks
             .block
                 &-title
                     h2
-                        margin-left: offset(3)
-                        width: columns(6)
-                
+                        padding-left: offset(3)
+                        width: columns(9)
                 &-chapter
                     .block-content
-                        margin-left: offset(3)
+                        padding-left: offset(3)
                         .text
                             width: columns(6)
                 &-image
-                    figure
-                        margin-left: offset(3)
-                        width: columns(6)
-                        picture
-                            margin-left: 0
-                            margin-right: 0
+                    .block-content
+                        padding-left: offset(3)
                 &-links
                     .block-content
                         margin-left: offset(3)
@@ -41,3 +29,12 @@ body.page-overlap
                                 flex-direction: row-reverse
                                 .media
                                     width: columns(2)
+                &-gallery
+                    .container
+                        .block-content
+                            padding-left: 0
+                &-pages
+                    .block-content
+                        padding-left: 0
+                        .grid
+                            grid-template-columns: repeat(3, 1fr)
