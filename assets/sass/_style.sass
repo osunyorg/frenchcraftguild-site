@@ -1,6 +1,19 @@
 header#document-header
     border-bottom-color: rgba(255, 255, 255, 0.15)
 
+.hero
+    &:not(.hero--with-image)
+        @include media-breakpoint-up(desktop)
+            .content
+                .hero-text
+                    margin-left: auto
+                    margin-right: auto
+                    text-align: center
+                    p
+                        margin-bottom: $spacing-4
+                        margin-top: $spacing-4
+.breadcrumb
+    justify-content: center
 .page__home
     @include media-breakpoint-up(desktop)
         .hero
@@ -24,3 +37,30 @@ header#document-header
                         width: 100% !important
                         font-size: $h1-size-desktop
                         line-height: $h1-line-height
+.block
+    &-posts
+        &--highlight
+            .list
+                article
+                    .post-title,
+                    .post-subtitle
+                        @include h3
+footer#document-footer
+    display: flex
+    flex-direction: column-reverse
+    .container:first-of-type
+        justify-content: center
+        padding-bottom: 0
+    .container:last-of-type
+        align-items: start
+        margin-top: 0
+        padding-top: 0
+        padding-bottom: $spacing-5
+        .footer-social
+            li::after,
+            a::after
+                display: none
+        .site-links
+            margin-top: $spacing-2
+            li
+                margin-top: $spacing-2
