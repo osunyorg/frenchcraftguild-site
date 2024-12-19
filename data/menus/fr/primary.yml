@@ -28,61 +28,61 @@ items:
     path: "/pages/a-propos/gouvernance"
     file: content/fr/pages/a-propos/gouvernance/_index.html
   - title: Partenaires
-    target: "/partenaires/"
+    target: "/a-propos/partenaires/"
     kind: page
     new_tab: false
     children: []
-    path: "/pages/partenaires"
-    file: content/fr/pages/partenaires/_index.html
+    path: "/pages/a-propos/partenaires"
+    file: content/fr/pages/a-propos/partenaires/_index.html
   path: "/pages/a-propos"
   file: content/fr/pages/a-propos/_index.html
 - title: Actions
-  target: "/a-propos/actions/"
+  target: "/actions/"
   kind: page
   new_tab: false
   children:
   - title: Ressources
-    target: "/ressources/"
+    target: "/actions/ressources/"
     kind: page
     new_tab: false
     children:
     - title: Événements & salons
-      target: "/ressources/evenements-salons/"
+      target: "/actions/ressources/evenements-salons/"
       kind: page
       new_tab: false
       children: []
-      path: "/pages/ressources/evenements-salons"
-      file: content/fr/pages/ressources/evenements-salons/_index.html
+      path: "/pages/actions/ressources/evenements-salons"
+      file: content/fr/pages/actions/ressources/evenements-salons/_index.html
     - title: Rencontres
-      target: "/ressources/rencontres/"
+      target: "/actions/ressources/rencontres/"
       kind: page
       new_tab: false
       children: []
-      path: "/pages/ressources/rencontres"
-      file: content/fr/pages/ressources/rencontres/_index.html
+      path: "/pages/actions/ressources/rencontres"
+      file: content/fr/pages/actions/ressources/rencontres/_index.html
     - title: Webinaires
-      target: "/ressources/webinaires/"
+      target: "/actions/ressources/webinaires/"
       kind: page
       new_tab: false
       children: []
-      path: "/pages/ressources/webinaires"
-      file: content/fr/pages/ressources/webinaires/_index.html
+      path: "/pages/actions/ressources/webinaires"
+      file: content/fr/pages/actions/ressources/webinaires/_index.html
     - title: Workshops
-      target: "/ressources/workshops/"
+      target: "/actions/ressources/workshops/"
       kind: page
       new_tab: false
       children: []
-      path: "/pages/ressources/workshops"
-      file: content/fr/pages/ressources/workshops/_index.html
+      path: "/pages/actions/ressources/workshops"
+      file: content/fr/pages/actions/ressources/workshops/_index.html
     - title: Entre nous
-      target: "/ressources/entre-nous/"
+      target: "/actions/ressources/entre-nous/"
       kind: page
       new_tab: false
       children: []
-      path: "/pages/ressources/entre-nous"
-      file: content/fr/pages/ressources/entre-nous/_index.html
-    path: "/pages/ressources"
-    file: content/fr/pages/ressources/_index.html
+      path: "/pages/actions/ressources/entre-nous"
+      file: content/fr/pages/actions/ressources/entre-nous/_index.html
+    path: "/pages/actions/ressources"
+    file: content/fr/pages/actions/ressources/_index.html
   - title: e-showroom
     target: "/e-showroom/"
     kind: page
@@ -97,8 +97,8 @@ items:
     children: []
     path: "/pages/prototypes"
     file: content/fr/pages/prototypes/_index.html
-  path: "/pages/a-propos/actions"
-  file: content/fr/pages/a-propos/actions/_index.html
+  path: "/pages/actions"
+  file: content/fr/pages/actions/_index.html
 - title: Membres
   target: "/membres/"
   kind: page
