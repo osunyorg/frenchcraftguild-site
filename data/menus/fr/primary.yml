@@ -99,13 +99,6 @@ items:
     file: content/fr/pages/prototypes/_index.html
   path: "/pages/actions"
   file: content/fr/pages/actions/_index.html
-- title: Membres
-  target: "/membres/"
-  kind: page
-  new_tab: false
-  children: []
-  path: "/pages/membres"
-  file: content/fr/pages/membres/_index.html
 - title: Actualités
   target: "/actualites/"
   kind: page
