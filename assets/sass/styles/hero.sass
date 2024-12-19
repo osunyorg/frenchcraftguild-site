@@ -1,0 +1,51 @@
+@include media-breakpoint-up(desktop)
+    // Simpler credits (no copyright)
+    .hero
+        .content
+            figure
+                figcaption
+                    &::before
+                        display: none
+                    .credit
+                        display: block
+                        padding-right: 0
+                        color: $color-background-alt
+    // Vertical layout
+    body:not(.page__home)
+        .hero
+            padding-bottom: 0
+            &.hero--with-image
+                .content
+                    align-items: center
+                    flex-direction: column
+                    text-align: center
+                    .hero-text
+                        margin-bottom: $spacing-5
+                        margin-left: auto
+                        margin-right: auto
+                        text-align: center
+                        p
+                            margin-bottom: $spacing-4
+                            margin-top: $spacing-4
+                    figure
+                        width: columns(6)
+                        .credit
+                            width: columns(3)
+                            position: absolute
+                            bottom: 0
+                            padding: 0
+                            text-align: left
+                            right: offset(-3)
+            &:not(.hero--with-image)
+                @include media-breakpoint-up(desktop)
+                    .content
+                        .hero-text
+                            margin-left: auto
+                            margin-right: auto
+                            text-align: center
+                            p
+                                margin-bottom: $spacing-4
+                                margin-top: $spacing-4                        
+            .breadcrumb
+                justify-content: center
+                padding-right: 0

@@ -1,0 +1,12 @@
+.organizations
+    &__page
+        @include media-breakpoint-up(desktop)
+            .contacts-details
+                margin-left: offset(3)
+                width: columns(6)
+    &__section
+        .organizations
+            grid-template-columns: repeat(3, 1fr) !important
+            .organization-title
+                a
+                    @include h3

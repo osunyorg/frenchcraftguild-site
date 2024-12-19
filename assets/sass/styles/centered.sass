@@ -6,6 +6,25 @@
             display: none
         .section-sidebar
             width: columns(3) !important
+            > div
+                position: static !important
+            .post-infos
+                > li
+                    border: none
+                    display: block
+                    span
+                        display: block
+                    ul
+                        text-align: left
+                        li
+                            margin-left: 0
+                            margin-right: $spacing-1
+                    .share
+                        justify-content: start
+                        margin-top: $spacing-2
+                        margin-left: space(-4)
+                        li
+                            margin-right: space(2)
         .block-siblings-navigation
             .block-content
                 padding-left: 0 !important
@@ -21,9 +40,17 @@
                         padding-left: offset(3)
                         .text
                             width: columns(6)
-                &-image
-                    .block-content
-                        padding-left: offset(3)
+                    &--alt_background
+                        .block-content
+                            width: columns(9)
+                            .chapter
+                                padding: columns(1)
+                                .text
+                                    padding: 0
+                                    width: 100%
+                                figure
+                                    max-width: 100%
+                                    padding-bottom: columns(1)
                 &-links
                     .block-content
                         margin-left: offset(3)
@@ -49,3 +76,10 @@
                         padding-left: 0
                         .grid
                             grid-template-columns: repeat(3, 1fr)
+                &-image,
+                &-video,
+                &-testimonials,
+                &-files
+                    .block-content
+                        padding-left: offset(3)
+                        width: columns(9)

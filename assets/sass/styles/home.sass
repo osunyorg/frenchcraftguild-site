@@ -1,0 +1,18 @@
+.page__home
+    .hero
+        &.hero--with-image
+            margin-bottom: $spacing-3
+            @include media-breakpoint-up(desktop)
+                margin-bottom: calc(2 * var(--grid-gutter))
+                .content
+                    flex-direction: row-reverse
+                    figure
+                        margin-bottom: calc(-2 * var(--grid-gutter)) !important
+                        figcaption
+                            &::before
+                                background: none
+                            .credit
+                                background: none
+                                color: $color-text-alt
+
+

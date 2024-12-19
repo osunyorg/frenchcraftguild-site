@@ -14,3 +14,6 @@ params:
       level_2:
         title:
           active: true
+  posts:
+    index:
+      layout: grid
