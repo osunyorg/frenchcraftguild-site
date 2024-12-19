@@ -10,18 +10,11 @@ header#document-header
                 .credit
                     display: block
                     padding-right: 0
+                    color: $color-background-alt
     &.hero--with-image
-        margin-bottom: pxToRem(150)
-        .content
-            flex-direction: row-reverse
-            figure
-                margin-bottom: pxToRem(-150)
-                figcaption
-                    &::before
-                        background: none
-                    .credit
-                        background: none
         @include media-breakpoint-up(desktop)
+            .content
+                flex-direction: row-reverse
             &.hero--image-landscape
                 .breadcrumb
                     padding-left: offset(5)

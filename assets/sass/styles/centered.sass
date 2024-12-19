@@ -4,6 +4,12 @@
         .toc-cta,
         .toc-container
             display: none
+        .section-sidebar
+            width: columns(3) !important
+        .block-siblings-navigation
+            .block-content
+                padding-left: 0 !important
+                width: 100%
         .blocks
             .block
                 &-title
@@ -21,18 +27,23 @@
                 &-links
                     .block-content
                         margin-left: offset(3)
+                        padding-left: 0
                         width: columns(6)
                         .links
                             display: block
                             li
                                 display: flex
                                 flex-direction: row-reverse
+                                margin-bottom: $spacing-3
                                 .media
                                     width: columns(2)
                 &-gallery
                     .container
                         .block-content
                             padding-left: 0
+                    &--grid
+                        .gallery > *
+                            flex: 0 0 calc(25% - var(--grid-gutter)* 0.75)
                 &-pages
                     .block-content
                         padding-left: 0
