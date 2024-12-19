@@ -1,8 +1,9 @@
 theme: osuny
-paginate: 18
-enableRobotsTXT: true
-removePathAccents: true
+_merge: deep
 params:
+  home:
+    head:
+      title: site
   logo:
-    header: "/assets/images/logo.png"
-    footer: "/assets/images/logo.png"
+    header: "/assets/images/logo-horizontal.svg"
+    footer: "/assets/images/logo.svg"

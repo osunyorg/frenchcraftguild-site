@@ -1,0 +1,26 @@
+header#document-header
+    border-bottom-color: rgba(255, 255, 255, 0.15)
+
+.page__home
+    @include media-breakpoint-up(desktop)
+        .hero
+            margin-bottom: pxToRem(150)
+            .content
+                flex-direction: row-reverse
+                figure
+                    margin-bottom: pxToRem(-150)
+                    figcaption
+                        &::before
+                            background: none
+                        .credit
+                            background: none
+
+.block
+    &-chapter
+        &--accent_background
+            .chapter
+                .text
+                    @include media-breakpoint-up(desktop)
+                        width: 100% !important
+                        font-size: $h1-size-desktop
+                        line-height: $h1-line-height
