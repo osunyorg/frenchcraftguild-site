@@ -1,16 +1,6 @@
 ---
 title: Liens sociaux
 items:
-- title: LinkedIn
-  target: https://www.linkedin.com/company/french-craft-guild
-  kind: url
-  new_tab: true
-  children: []
-- title: Instagram
-  target: https://www.instagram.com/frenchcraftguild
-  kind: url
-  new_tab: true
-  children: []
 - title: Abonnez-vous à notre newsletter
   target: https://mailchi.mp/abc3f974d33b/letskeepinfrenchtouch
   kind: url
