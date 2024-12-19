@@ -7,12 +7,12 @@ items:
   new_tab: false
   children:
   - title: Vision & missions
-    target: "/vision-missions/"
+    target: "/a-propos/vision-missions/"
     kind: page
     new_tab: false
     children: []
-    path: "/pages/vision-missions"
-    file: content/fr/pages/vision-missions/_index.html
+    path: "/pages/a-propos/vision-missions"
+    file: content/fr/pages/a-propos/vision-missions/_index.html
   - title: Manifeste
     target: "/manifeste-craftpower/"
     kind: page
