@@ -37,7 +37,7 @@ items:
   path: "/pages/a-propos"
   file: content/fr/pages/a-propos/_index.html
 - title: Actions
-  target: "/actions/"
+  target: "/a-propos/actions/"
   kind: page
   new_tab: false
   children:
@@ -97,8 +97,8 @@ items:
     children: []
     path: "/pages/prototypes"
     file: content/fr/pages/prototypes/_index.html
-  path: "/pages/actions"
-  file: content/fr/pages/actions/_index.html
+  path: "/pages/a-propos/actions"
+  file: content/fr/pages/a-propos/actions/_index.html
 - title: Membres
   target: "/membres/"
   kind: page
