@@ -14,12 +14,12 @@ items:
     path: "/pages/a-propos/vision-missions"
     file: content/fr/pages/a-propos/vision-missions/_index.html
   - title: Manifeste
-    target: "/manifeste-craftpower/"
+    target: "/a-propos/manifeste-craftpower/"
     kind: page
     new_tab: false
     children: []
-    path: "/pages/manifeste-craftpower"
-    file: content/fr/pages/manifeste-craftpower/_index.html
+    path: "/pages/a-propos/manifeste-craftpower"
+    file: content/fr/pages/a-propos/manifeste-craftpower/_index.html
   - title: Gouvernance
     target: "/gouvernance/"
     kind: page
