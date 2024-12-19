@@ -53,20 +53,6 @@ items:
       children: []
       path: "/pages/actions/ressources/rencontres"
       file: content/fr/pages/actions/ressources/rencontres/_index.html
-    - title: Webinaires
-      target: "/actions/ressources/webinaires/"
-      kind: page
-      new_tab: false
-      children: []
-      path: "/pages/actions/ressources/webinaires"
-      file: content/fr/pages/actions/ressources/webinaires/_index.html
-    - title: Workshops
-      target: "/actions/ressources/workshops/"
-      kind: page
-      new_tab: false
-      children: []
-      path: "/pages/actions/ressources/workshops"
-      file: content/fr/pages/actions/ressources/workshops/_index.html
     path: "/pages/actions/ressources"
     file: content/fr/pages/actions/ressources/_index.html
   - title: e-showroom
