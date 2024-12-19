@@ -17,3 +17,10 @@ params:
   posts:
     index:
       layout: grid
+  image_sizes:
+    sections:
+      organizations:
+        item:
+          mobile:   400
+          tablet:   500
+          desktop:  600
