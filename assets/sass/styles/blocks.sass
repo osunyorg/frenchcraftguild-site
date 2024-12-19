@@ -1,0 +1,44 @@
+.block
+    &-chapter
+        &--accent_background
+            .chapter
+                .text
+                    @include media-breakpoint-up(desktop)
+                        width: 100% !important
+                        font-size: $h1-size-desktop
+                        line-height: $h1-line-height
+    &-posts
+        &--highlight
+            .list
+                article
+                    .post-title,
+                    .post-subtitle
+                        @include h3
+    &-pages
+        &--cards
+            .cards
+                text-align: center
+                p
+                    @include small
+                img
+                    aspect-ratio: 1 !important
+                    border-radius: 100%
+                .meta
+                    justify-content: center
+                @include full-page
+                    grid-template-columns: repeat(4, 1fr)
+        &--grid
+            .grid
+                @include media-breakpoint-up(desktop)
+                    article
+                        border-right: solid 1px $color-border
+                        padding-bottom: $spacing-5
+                        padding-top: $spacing-5
+                        &:last-of-type
+                            border-right: none
+                    .page-title
+                        text-align: center
+                        a
+                            @include h2
+                            &::after
+                                display: block
