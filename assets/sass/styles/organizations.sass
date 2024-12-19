@@ -1,0 +1,21 @@
+.organizations
+    &__page
+        .hero.hero--with-image
+            @include media-breakpoint-up(desktop)
+                .content
+                    align-items: center
+                    flex-direction: column
+                    text-align: center
+                    .hero-text
+                        margin-bottom: $spacing-5
+                    figure
+                        width: columns(6)
+        .contacts-details
+            margin-left: offset(3)
+            width: columns(6)
+    &__section
+        .organizations
+            grid-template-columns: repeat(3, 1fr) !important
+            .organization-title
+                a
+                    @include h3
