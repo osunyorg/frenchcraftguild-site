@@ -46,13 +46,6 @@ items:
     kind: page
     new_tab: false
     children:
-    - title: Événements & salons
-      target: "/actions/ressources/evenements-salons/"
-      kind: page
-      new_tab: false
-      children: []
-      path: "/pages/actions/ressources/evenements-salons"
-      file: content/fr/pages/actions/ressources/evenements-salons/_index.html
     - title: Rencontres
       target: "/actions/ressources/rencontres/"
       kind: page
