@@ -14,8 +14,14 @@
                     .post-title,
                     .post-subtitle
                         @include h3
+    &-gallery
+        &--carousel
+            .slider
+                figure
+                    margin-right: var(--grid-gutter)
     &-pages
         &--cards
+            // Jolis cercles
             .cards
                 text-align: center
                 p
@@ -28,8 +34,11 @@
                 @include full-page
                     grid-template-columns: repeat(4, 1fr)
         &--grid
-            .grid
-                @include media-breakpoint-up(desktop)
+            // Grands titres
+            @include media-breakpoint-up(desktop)
+                padding-bottom: $spacing-5
+                padding-top: $spacing-5
+                .grid
                     article
                         border-right: solid 1px $color-border
                         padding-bottom: $spacing-5
