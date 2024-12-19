@@ -2,6 +2,14 @@ header#document-header
     border-bottom-color: rgba(255, 255, 255, 0.15)
 
 .hero
+    .content
+        figure
+            figcaption
+                &::before
+                    display: none
+                .credit
+                    display: block
+                    padding-right: 0
     &.hero--with-image
         margin-bottom: pxToRem(150)
         .content
@@ -21,7 +29,6 @@ header#document-header
             &.hero--image-square,
                 .breadcrumb
                     padding-left: offset(4)
-
     &:not(.hero--with-image)
         @include media-breakpoint-up(desktop)
             .content
@@ -34,7 +41,6 @@ header#document-header
                         margin-top: $spacing-4                        
             .breadcrumb
                 justify-content: center
-
 
 footer#document-footer
     display: flex
