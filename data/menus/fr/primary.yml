@@ -48,7 +48,7 @@ items:
     children: []
     path: "/pages/actions/ressources"
     file: content/fr/pages/actions/ressources/_index.html
-  - title: e-showroom
+  - title: Showroom
     target: "/actions/e-showroom/"
     kind: page
     new_tab: false
