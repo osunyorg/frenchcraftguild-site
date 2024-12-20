@@ -1,17 +1,27 @@
+// Slightly variable fonts
 html
     @include media-breakpoint-up(desktop)
         font-size: Min(Max(1vw, 13px), 16px)
+
 header#document-header
     border-bottom-color: rgba(255, 255, 255, 0.15)
+    // No "menu" label on mobile, logo is too big 
     nav:not(.upper-menu)
         .header-button
             span:first-of-type
                 display: none
 
+// Waiting for https://github.com/osunyorg/theme/issues/835
+.pages__section
+    .document-content
+        > .block-pages
+            p
+                display: none
 footer#document-footer
     margin-top: $spacing-5
     display: flex
     flex-direction: column-reverse
+    // Logo below
     .container:first-of-type
         justify-content: center
         padding-bottom: 0
