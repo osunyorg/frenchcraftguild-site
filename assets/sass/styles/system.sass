@@ -10,6 +10,13 @@ header#document-header
         .header-button
             span:first-of-type
                 display: none
+    @include media-breakpoint-down(desktop)
+        .dropdown-menu-heading
+            display: none
+        .nav-level-2
+            margin-top: 0
+        .menu *
+            border-bottom-color: rgba(255, 255, 255, 0.3)
 
 // Waiting for https://github.com/osunyorg/theme/issues/835
 .pages__section
@@ -21,6 +28,9 @@ header#document-header
 .posts--grid
     .post
         margin-bottom: $spacing-4
+        @include media-breakpoint-down(desktop)
+        .post-title
+            margin-bottom: $spacing-2
 
 // Remove all © signs
 .credit

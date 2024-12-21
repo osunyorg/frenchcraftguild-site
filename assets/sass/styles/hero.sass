@@ -1,20 +1,33 @@
 // https://github.com/osunyorg/theme/pull/838
 .hero
-    padding-bottom: var(--grid-gutter)
     margin-bottom: var(--grid-gutter)
+    padding-bottom: 0
+
+    // Simpler credits (no copyright)
+    .content
+        figure
+            figcaption
+                background: none
+                &::before
+                    display: none
+                .credit
+                    display: block
+                    color: $color-background-alt
+                    padding-right: 0
+
+@include media-breakpoint-down(desktop)
+    .hero
+        &--image-landscape
+            figure
+                padding-left: var(--grid-gutter)
+                padding-right: var(--grid-gutter)
+                // figcaption
+                //     .credit
+                //         padding-right: var(--grid-gutter)
+        figure
+            margin-bottom: 0
 
 @include media-breakpoint-up(desktop)
-    // Simpler credits (no copyright)
-    .hero
-        .content
-            figure
-                figcaption
-                    &::before
-                        display: none
-                    .credit
-                        display: block
-                        padding-right: 0
-                        color: $color-background-alt
     // Vertical layout
     body:not(.page__home)
         .hero
