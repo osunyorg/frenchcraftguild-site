@@ -7,6 +7,9 @@
                 .description
                     @include full-page
                         max-width: columns(7) !important
+        .actions
+            *
+                font-family: $font-sans !important
     &-chapter
         &--accent_background
             .chapter
@@ -28,13 +31,36 @@
             // Jolis cercles
             .cards
                 text-align: center
+                .card
+                    padding-left: 0 !important
+                    padding-right: 0 !important
                 p
                     @include small
                 img
                     aspect-ratio: 1 !important
                     border-radius: 100%
-                .meta
+                .more
+                    @include meta
+                    @include icon(arrow-right-line, after)
+                        font-size: pxToRem(16)
+                    @include hover-translate-icon
+                    text-decoration: none
                     justify-content: center
+
+    
+                //     @include arrow-right-hover
+                //     @include icon(arrow-right-line, after)
+                //         font-size: pxToRem(40)
+                //     @include link($block-pages-card-page-color)
+                //     position: relative
+                //     margin-top: auto
+                //     padding-top: $spacing-3
+                // &:hover
+                //     .more:after
+                //         opacity: 1
+                //         transform: translateX(pxToRem(7))
+
+
                 @include full-page
                     grid-template-columns: repeat(4, 1fr)
         &--grid
