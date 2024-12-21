@@ -1,6 +1,12 @@
 .block
     .block-title
         font-style: italic
+    &-call_to_action
+        .call_to_action
+            &--without-image
+                .description
+                    @include full-page
+                        max-width: columns(7) !important
     &-chapter
         &--accent_background
             .chapter
@@ -9,13 +15,6 @@
                         width: 100% !important
                         font-size: $h1-size-desktop
                         line-height: $h1-line-height
-    &-posts
-        &--highlight
-            .list
-                article
-                    .post-title,
-                    .post-subtitle
-                        @include h3
     &-gallery
         &--carousel
             .slider
@@ -55,3 +54,10 @@
                             @include h2
                             &::after
                                 display: block
+    &-posts
+        &--highlight
+            .list
+                article
+                    .post-title,
+                    .post-subtitle
+                        @include h3
