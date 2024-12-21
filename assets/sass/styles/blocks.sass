@@ -34,33 +34,37 @@
                 .card
                     padding-left: 0 !important
                     padding-right: 0 !important
-                p
-                    @include small
-                img
-                    aspect-ratio: 1 !important
-                    border-radius: 100%
-                .more
-                    @include meta
-                    @include icon(arrow-right-line, after)
-                        font-size: pxToRem(16)
-                    @include hover-translate-icon
-                    text-decoration: none
-                    justify-content: center
-
-    
-                //     @include arrow-right-hover
-                //     @include icon(arrow-right-line, after)
-                //         font-size: pxToRem(40)
-                //     @include link($block-pages-card-page-color)
-                //     position: relative
-                //     margin-top: auto
-                //     padding-top: $spacing-3
-                // &:hover
-                //     .more:after
-                //         opacity: 1
-                //         transform: translateX(pxToRem(7))
-
-
+                    .media
+                        min-width: none
+                        margin-left: auto
+                        margin-right: auto
+                        max-width: columns(8) !important
+                        @include media-breakpoint-up(desktop)
+                            max-width: offset(2) !important
+                        picture
+                            img
+                                aspect-ratio: 1 !important
+                                border-radius: 100%
+                    .page-title
+                        @include h2
+                        @include media-breakpoint-up(desktop)
+                            margin-top: $spacing-2
+                            margin-bottom: $spacing-2
+                    p
+                        @include small
+                        margin-bottom: $spacing-2
+                        @include media-breakpoint-up(desktop)
+                            margin-bottom: $spacing-3
+                    .more
+                        padding-top: 0
+                        justify-content: center
+                        text-decoration: none
+                        @include meta
+                        @include icon(arrow-right-line, after)
+                            font-size: pxToRem(16)
+                            opacity: 1
+                            position: relative
+                            transform: none
                 @include full-page
                     grid-template-columns: repeat(4, 1fr)
         &--grid
