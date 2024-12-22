@@ -6,8 +6,13 @@
                 width: columns(6)
     &__section
         .organizations
-            grid-template-columns: repeat(3, 1fr) !important
             margin-top: 0
+            @include media-breakpoint-down(desktop)
+                display: block !important
+                .organization
+                    margin-bottom: $spacing-4
+            @include media-breakpoint-up(desktop)
+                grid-template-columns: repeat(3, 1fr) !important
             .organization-title
                 a
                     @include h3
