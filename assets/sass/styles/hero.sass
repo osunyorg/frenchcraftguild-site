@@ -21,9 +21,6 @@
             figure
                 padding-left: var(--grid-gutter)
                 padding-right: var(--grid-gutter)
-                // figcaption
-                //     .credit
-                //         padding-right: var(--grid-gutter)
         figure
             margin-bottom: 0
 
@@ -32,6 +29,9 @@
     body:not(.page__home)
         .hero
             padding-bottom: 0
+            .content
+                .hero-text
+                    margin-top: 0
             &.hero--with-image
                 .content
                     align-items: center
@@ -47,13 +47,7 @@
                             margin-top: $spacing-4
                     figure
                         width: columns(6)
-                        .credit
-                            width: columns(3)
-                            position: absolute
-                            bottom: 0
-                            padding: 0
-                            text-align: left
-                            right: offset(-3)
+                        margin-bottom: $spacing-4
             &:not(.hero--with-image)
                 @include media-breakpoint-up(desktop)
                     .content
@@ -67,3 +61,4 @@
             .breadcrumb
                 justify-content: center
                 padding-right: 0
+                margin-top: $spacing-5

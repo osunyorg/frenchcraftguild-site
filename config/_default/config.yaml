@@ -2,7 +2,7 @@ theme: osuny
 _merge: deep
 params:
   breadcrumb:
-    position: hero-end
+    position: hero-start
   home:
     head:
       title: site
