@@ -1,34 +1,24 @@
-// https://github.com/osunyorg/theme/pull/838
-.hero
-    margin-bottom: var(--grid-gutter)
-    padding-bottom: 0
-
-    // Simpler credits (no copyright)
-    .content
-        figure
-            figcaption
-                background: none
-                &::before
-                    display: none
-                .credit
-                    display: block
-                    color: $color-background-alt
-                    padding-right: 0
-
 @include media-breakpoint-down(desktop)
     .hero
-        &--image-landscape
-            figure
-                padding-left: var(--grid-gutter)
-                padding-right: var(--grid-gutter)
-        figure
-            margin-bottom: 0
+        &--image-square,
+        &--image-portrait 
+            .content
+                figure
+                    figcaption
+                        .credit
+                            padding-right: 0
 
 @include media-breakpoint-up(desktop)
+    .hero
+        .content
+            figure
+                figcaption
+                    .credit
+                        display: block
+                        padding-right: 0
     // Vertical layout
     body:not(.page__home)
         .hero
-            padding-bottom: 0
             .content
                 .hero-text
                     margin-top: 0
@@ -48,16 +38,17 @@
                     figure
                         width: columns(6)
                         margin-bottom: $spacing-4
+                        .credit
+                            color: $color-background-alt
             &:not(.hero--with-image)
-                @include media-breakpoint-up(desktop)
-                    .content
-                        .hero-text
-                            margin-left: auto
-                            margin-right: auto
-                            text-align: center
-                            p
-                                margin-bottom: $spacing-4
-                                margin-top: $spacing-4                        
+                .content
+                    .hero-text
+                        margin-left: auto
+                        margin-right: auto
+                        text-align: center
+                        p
+                            margin-bottom: $spacing-4
+                            margin-top: $spacing-4                        
             .breadcrumb
                 justify-content: center
                 padding-right: 0

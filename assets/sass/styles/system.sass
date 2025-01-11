@@ -33,9 +33,13 @@ header#document-header
             margin-bottom: $spacing-2
 
 // Remove all © signs
-.credit
-    span
+figcaption
+    &::before
         display: none !important
+    .credit
+        p
+            span
+                display: none !important
 
 footer#document-footer
     padding-top: var(--grid-gutter)
