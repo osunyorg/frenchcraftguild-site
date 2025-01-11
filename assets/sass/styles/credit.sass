@@ -1,0 +1,27 @@
+@include media-breakpoint-down(desktop)
+    .hero
+        &--image-square,
+        &--image-portrait 
+            .content
+                figure
+                    figcaption
+                        .credit
+                            padding-right: 0
+@include media-breakpoint-up(desktop)
+    // Crédit toujours visible, et sans marge à droite
+    .hero
+        .content
+            figure
+                figcaption
+                    .credit
+                        background: none
+                        display: block
+                        padding-right: 0
+// Pas de ©
+figcaption
+    &::before
+        display: none !important
+    .credit
+        p
+            span
+                display: none !important

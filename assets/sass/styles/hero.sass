@@ -1,54 +1,27 @@
-@include media-breakpoint-down(desktop)
-    .hero
-        &--image-square,
-        &--image-portrait 
-            .content
-                figure
-                    figcaption
-                        .credit
-                            padding-right: 0
-
 @include media-breakpoint-up(desktop)
-    .hero
-        .content
-            figure
-                figcaption
-                    .credit
-                        display: block
-                        padding-right: 0
-    // Vertical layout
+    // Mise en page verticale
     body:not(.page__home)
         .hero
             .content
+                align-items: center
+                flex-direction: column
+                text-align: center
                 .hero-text
+                    margin-left: auto
+                    margin-right: auto
                     margin-top: 0
-            &.hero--with-image
-                .content
-                    align-items: center
-                    flex-direction: column
                     text-align: center
-                    .hero-text
-                        margin-bottom: $spacing-5
-                        margin-left: auto
-                        margin-right: auto
-                        text-align: center
-                        p
-                            margin-bottom: $spacing-4
-                            margin-top: $spacing-4
+                    p
+                        margin-bottom: $spacing-4
+                        margin-top: $spacing-4
+            &.hero--with-image
+                margin-bottom: $spacing-7
+                .content
                     figure
                         width: columns(6)
-                        margin-bottom: $spacing-4
+                        margin-bottom: calc(#{-$spacing-7} + #{$spacing-4})
                         .credit
-                            color: $color-background-alt
-            &:not(.hero--with-image)
-                .content
-                    .hero-text
-                        margin-left: auto
-                        margin-right: auto
-                        text-align: center
-                        p
-                            margin-bottom: $spacing-4
-                            margin-top: $spacing-4                        
+                            background: none                     
             .breadcrumb
                 justify-content: center
                 padding-right: 0

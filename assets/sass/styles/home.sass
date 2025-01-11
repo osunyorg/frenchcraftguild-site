@@ -1,18 +1,14 @@
 .page__home
     .hero
         &.hero--with-image
-            margin-bottom: 0
             @include media-breakpoint-up(desktop)
                 margin-bottom: calc(2 * var(--grid-gutter))
+                .hero-text
+                    // Alignement parfait en haut de l'image
+                    margin-top: -10px
                 .content
                     flex-direction: row-reverse
                     figure
-                        margin-bottom: calc(-2 * var(--grid-gutter)) !important
-                        figcaption
-                            &::before
-                                background: none
-                            .credit
-                                background: none
-                                color: $color-text-alt
+                        margin-bottom: calc(-3 * var(--grid-gutter)) !important
 
 
