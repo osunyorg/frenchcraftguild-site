@@ -44,3 +44,47 @@ fr:
     researcher: researchers
     teacher: teachers
     volume: volumes
+en:
+  title: >-
+    French Craft Guild
+  contentDir: content/en
+  languageCode: en
+  languageName: English
+  params:
+    contact_details:
+      social_networks:
+        instagram:
+          label: >-
+            frenchcraftguild
+          value: >-
+            https://instagram.com/frenchcraftguild
+        linkedin:
+          label: >-
+            french-craft-guild
+          value: >-
+            https://www.linkedin.com/company/french-craft-guild/
+
+  permalinks:
+    events: /agenda/:year-:month-:day-:slug/
+    events_categories: /agenda/:slug/
+    projects: /projects/:year-:slug/
+    projects_categories: /projects/:slug/
+    posts: /posts/:year-:month-:day-:slug/
+    posts_categories: /posts/:slug/
+    organizations: /organizations/:slug/
+    organizations_categories: /organizations/categories/:slug/
+    persons: /team/:slug/
+    persons_categories: /team/categories/:slug/
+  taxonomies:
+    administrator: administrators
+    author: authors
+    diploma: diplomas
+    events_category: events_categories
+    location: locations
+    organizations_category: organizations_categories
+    persons_category: persons_categories
+    posts_category: posts_categories
+    projects_category: projects_categories
+    researcher: researchers
+    teacher: teachers
+    volume: volumes
