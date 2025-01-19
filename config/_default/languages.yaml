@@ -31,7 +31,6 @@ fr:
     organizations_categories: /membres/categories/:slug/
     persons: /equipe/:slug/
     persons_categories: /equipe/categories/:slug/
-    authors: /equipe/:slug/actualites/
   taxonomies:
     administrator: administrators
     author: authors
@@ -76,7 +75,6 @@ en:
     organizations_categories: /organizations/categories/:slug/
     persons: /team/:slug/
     persons_categories: /team/categories/:slug/
-    authors: /team/:slug/posts/
   taxonomies:
     administrator: administrators
     author: authors
