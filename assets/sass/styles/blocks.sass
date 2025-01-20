@@ -11,6 +11,15 @@
             *
                 font-family: $font-sans !important
     &-chapter
+        .block-title
+            font-style: normal !important
+            @include h2
+        &.block-class-link
+            .rich-text
+                a
+                    text-decoration: none
+                    @include icon(arrow-right-line, after)
+
         &--accent_background
             .chapter
                 .text
