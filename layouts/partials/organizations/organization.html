@@ -19,15 +19,30 @@
     {{ end }}
   </div>
   {{ if $options.logo }}
-    <div class="media">
-      {{ if .Params.image }}
-        {{ partial "commons/image.html"
+  {{ if .Params.image }}
+    <div class="media media--image">
+      {{ partial "commons/image.html"
               (dict
                 "image"    .Params.image
                 "alt"      $title
                 "sizes"    site.Params.image_sizes.sections.organizations.item
               ) }}
-      {{ end }}
-    </div>
+          </div>
+    {{ else }}
+      <div class="media media--logo">
+        {{ if .Params.logo }}
+        {{ $logo_index := "logo" }}
+        {{ if site.Params.organizations.dark_logo_background }}
+          {{ $logo_index = "logo_on_dark_background" }}
+        {{ end }}
+          {{ partial "commons/image.html"
+                (dict
+                  "image"    (index .Params  $logo_index)
+                  "alt"      $title
+                  "sizes"    site.Params.image_sizes.sections.organizations.item
+                ) }}
+        {{ end }}
+      </div>
+    {{ end }}
   {{ end }}
 </article>

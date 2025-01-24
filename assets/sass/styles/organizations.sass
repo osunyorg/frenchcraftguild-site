@@ -18,10 +18,15 @@
                     @include h3
 .organization
     .media
-        background: none
         padding: 0
+        background: white
+        aspect-ratio: 14/9
         picture
-            aspect-ratio: auto
+            aspect-ratio: 14/9
+        &--logo
             img
-                aspect-ratio: 14/9
-                object-fit: cover
+                padding: $spacing-4
+        &--image
+            picture
+                img
+                    object-fit: cover
