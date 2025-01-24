@@ -36,6 +36,14 @@
             .slider
                 figure
                     margin-right: var(--grid-gutter)
+    &-organizations
+        &--grid
+            .organizations
+                @include media-breakpoint-up(desktop)
+                    grid-template-columns: repeat(3, 1fr) !important
+                .organization-title
+                    a
+                        @include h3
     &-pages
         &--cards
             // Jolis cercles
@@ -104,3 +112,4 @@
                     .post-title,
                     .post-subtitle
                         @include h3
+    
