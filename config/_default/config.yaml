@@ -1,6 +1,8 @@
 theme: osuny
 _merge: deep
 params:
+  debug:
+    productionUrl: https://site.frenchcraftguild.osuny.site
   breadcrumb:
     position: hero-start
   home:
@@ -14,6 +16,8 @@ params:
       level_2:
         title:
           active: true
+  organizations:
+    prefer_image_over_logo: true
   pages:
     index:
       options:
