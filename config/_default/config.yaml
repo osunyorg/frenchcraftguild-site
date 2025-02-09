@@ -24,7 +24,7 @@ params:
         summary: false
   posts:
     index:
-      layout: grid
+      layout: list
   image_sizes:
     sections:
       organizations:
