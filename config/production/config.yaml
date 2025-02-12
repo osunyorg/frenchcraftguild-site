@@ -2,6 +2,11 @@
 
 baseURL: https://www.frenchcraftguild.fr
 
+## OSUNY
+osuny:
+  website:
+    id: f7e14d3b-fb85-4c3c-bf13-c2293c467e84
+
 ## LANGUAGE
 defaultContentLanguage: fr
 defaultContentLanguageInSubdir: false
