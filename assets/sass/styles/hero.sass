@@ -37,8 +37,8 @@
                         margin: auto
                 .hero-actions
                     position: absolute
-                    bottom: 0
-                    transform: translateY(calc(100% + var(--grid-gutter)))
+                    bottom: calc(#{-$spacing-7} + #{$spacing-4})
+                    transform: translateY(-100%)
 @include media-breakpoint-down(desktop)
     .hero-actions
         button
