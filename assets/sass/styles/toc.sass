@@ -1,0 +1,21 @@
+@include media-breakpoint-up(desktop)
+    .toc-cta
+        position: fixed
+        top: var(--header-height)
+        width: min-content
+        margin-right: 0
+        margin-left: auto
+        right: 0
+        padding-left: 0
+        padding-right: $spacing-2
+        margin-right: 0
+        background: $color-accent
+        .toc-cta-title
+            span
+                display: none
+            span, &:after
+                color: var(--color-background) !important
+            &:hover
+                padding-left: $spacing-2
+                span
+                    display: inline

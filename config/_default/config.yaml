@@ -25,6 +25,8 @@ params:
   posts:
     index:
       layout: list
+  toc:
+    force_offcanvas: true
   image_sizes:
     sections:
       organizations:
