@@ -10,12 +10,15 @@
         padding-right: $spacing-2
         margin-right: 0
         background: $color-accent
+        color: var(--color-background) !important
+
         .toc-cta-title
             span
                 display: none
             span, &:after
                 color: var(--color-background) !important
-            &:hover
+            &:hover, &:focus
                 padding-left: $spacing-2
+                outline-color: var(--color-background)
                 span
                     display: inline
