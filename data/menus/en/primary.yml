@@ -1,0 +1,116 @@
+---
+title: Main menu
+items:
+- title: About
+  target: "/en/about/"
+  kind: page
+  new_tab: false
+  children:
+  - title: Vision & missions
+    target: "/en/about/vision-missions/"
+    kind: page
+    new_tab: false
+    children: []
+    path: "/pages/about/vision-missions"
+    file: content/en/pages/about/vision-missions/_index.html
+  - title: Manifesto
+    target: "/en/about/manifesto-craftpower/"
+    kind: page
+    new_tab: false
+    children: []
+    path: "/pages/about/manifesto-craftpower"
+    file: content/en/pages/about/manifesto-craftpower/_index.html
+  - title: Governance
+    target: "/en/about/governance/"
+    kind: page
+    new_tab: false
+    children: []
+    path: "/pages/about/governance"
+    file: content/en/pages/about/governance/_index.html
+  path: "/pages/about"
+  file: content/en/pages/about/_index.html
+- title: Actions
+  target: "/en/actions/"
+  kind: page
+  new_tab: false
+  children:
+  - title: Resources
+    target: "/en/actions/resources/"
+    kind: page
+    new_tab: false
+    children:
+    - title: Workshops
+      target: "/en/actions/resources/workshops/"
+      kind: page
+      new_tab: false
+      children: []
+      path: "/pages/actions/resources/workshops"
+      file: content/en/pages/actions/resources/workshops/_index.html
+    - title: Webinars
+      target: "/en/actions/resources/webinars/"
+      kind: page
+      new_tab: false
+      children: []
+      path: "/pages/actions/resources/webinars"
+      file: content/en/pages/actions/resources/webinars/_index.html
+    - title: Events & exhibitions
+      target: "/en/actions/resources/events-exhibitions/"
+      kind: page
+      new_tab: false
+      children: []
+      path: "/pages/actions/resources/events-exhibitions"
+      file: content/en/pages/actions/resources/events-exhibitions/_index.html
+    - title: Meetings
+      target: "/en/actions/resources/meetings/"
+      kind: page
+      new_tab: false
+      children:
+      - title: Know-how meetings (“Rencontres des Savoir-faire”)
+        target: "/en/actions/resources/meetings/know-how-meetings/"
+        kind: page
+        new_tab: false
+        children: []
+        path: "/pages/actions/resources/meetings/know-how-meetings"
+        file: content/en/pages/actions/resources/meetings/know-how-meetings/_index.html
+      path: "/pages/actions/resources/meetings"
+      file: content/en/pages/actions/resources/meetings/_index.html
+    path: "/pages/actions/resources"
+    file: content/en/pages/actions/resources/_index.html
+  - title: Showroom
+    target: "/en/actions/e-showroom/"
+    kind: page
+    new_tab: false
+    children: []
+    path: "/pages/actions/e-showroom"
+    file: content/en/pages/actions/e-showroom/_index.html
+  - title: Prototypes
+    target: "/en/actions/prototypes/"
+    kind: page
+    new_tab: false
+    children: []
+    path: "/pages/actions/prototypes"
+    file: content/en/pages/actions/prototypes/_index.html
+  path: "/pages/actions"
+  file: content/en/pages/actions/_index.html
+- title: Agenda
+  target: "/en/agenda/"
+  kind: page
+  new_tab: false
+  children: []
+  path: "/events"
+  file: content/en/events/_index.html
+- title: Posts
+  target: "/en/posts/"
+  kind: page
+  new_tab: false
+  children: []
+  path: "/posts"
+  file: content/en/posts/_index.html
+- title: Members
+  target: "/en/members/"
+  kind: page
+  new_tab: false
+  children: []
+  path: "/pages/members"
+  file: content/en/pages/members/_index.html
+
