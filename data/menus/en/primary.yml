@@ -39,13 +39,6 @@ items:
     kind: page
     new_tab: false
     children:
-    - title: Workshops
-      target: "/en/actions/resources/workshops/"
-      kind: page
-      new_tab: false
-      children: []
-      path: "/pages/actions/resources/workshops"
-      file: content/en/pages/actions/resources/workshops/_index.html
     - title: Webinars
       target: "/en/actions/resources/webinars/"
       kind: page
