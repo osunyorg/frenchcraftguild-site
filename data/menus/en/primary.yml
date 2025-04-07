@@ -38,21 +38,7 @@ items:
     target: "/en/actions/resources/"
     kind: page
     new_tab: false
-    children:
-    - title: Meetings
-      target: "/en/actions/resources/meetings/"
-      kind: page
-      new_tab: false
-      children:
-      - title: Know-how meetings (“Rencontres des Savoir-faire”)
-        target: "/en/actions/resources/meetings/know-how-meetings/"
-        kind: page
-        new_tab: false
-        children: []
-        path: "/pages/actions/resources/meetings/know-how-meetings"
-        file: content/en/pages/actions/resources/meetings/know-how-meetings/_index.html
-      path: "/pages/actions/resources/meetings"
-      file: content/en/pages/actions/resources/meetings/_index.html
+    children: []
     path: "/pages/actions/resources"
     file: content/en/pages/actions/resources/_index.html
   - title: Showroom
