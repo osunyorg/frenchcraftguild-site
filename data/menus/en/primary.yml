@@ -39,13 +39,6 @@ items:
     kind: page
     new_tab: false
     children:
-    - title: Events & exhibitions
-      target: "/en/actions/resources/events-exhibitions/"
-      kind: page
-      new_tab: false
-      children: []
-      path: "/pages/actions/resources/events-exhibitions"
-      file: content/en/pages/actions/resources/events-exhibitions/_index.html
     - title: Meetings
       target: "/en/actions/resources/meetings/"
       kind: page
