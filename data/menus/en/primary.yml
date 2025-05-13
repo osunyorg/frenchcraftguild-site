@@ -49,12 +49,12 @@ items:
     path: "/pages/actions/e-showroom"
     file: content/en/pages/actions/e-showroom/_index.html
   - title: Prototypes
-    target: "/en/actions/prototypes/"
+    target: "/en/actions/events-exhibitions/prototypes/"
     kind: page
     new_tab: false
     children: []
-    path: "/pages/actions/prototypes"
-    file: content/en/pages/actions/prototypes/_index.html
+    path: "/pages/actions/events-exhibitions/prototypes"
+    file: content/en/pages/actions/events-exhibitions/prototypes/_index.html
   path: "/pages/actions"
   file: content/en/pages/actions/_index.html
 - title: Posts

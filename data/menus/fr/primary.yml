@@ -49,12 +49,12 @@ items:
     path: "/pages/actions/e-showroom"
     file: content/fr/pages/actions/e-showroom/_index.html
   - title: Prototypes
-    target: "/fr/actions/prototypes/"
+    target: "/fr/actions/evenements-salons/prototypes/"
     kind: page
     new_tab: false
     children: []
-    path: "/pages/actions/prototypes"
-    file: content/fr/pages/actions/prototypes/_index.html
+    path: "/pages/actions/evenements-salons/prototypes"
+    file: content/fr/pages/actions/evenements-salons/prototypes/_index.html
   path: "/pages/actions"
   file: content/fr/pages/actions/_index.html
 - title: Actualités
