@@ -42,12 +42,12 @@ items:
     path: "/pages/actions/resources"
     file: content/en/pages/actions/resources/_index.html
   - title: Showroom
-    target: "/en/actions/e-showroom/"
+    target: "/en/e-showroom/"
     kind: page
     new_tab: false
     children: []
-    path: "/pages/actions/e-showroom"
-    file: content/en/pages/actions/e-showroom/_index.html
+    path: "/pages/e-showroom"
+    file: content/en/pages/e-showroom/_index.html
   - title: Prototypes
     target: "/en/actions/events-exhibitions/prototypes/"
     kind: page
