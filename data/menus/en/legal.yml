@@ -1,0 +1,11 @@
+---
+title: Legal
+items:
+- title: Legal information
+  target: "/en/legal-information/"
+  kind: page
+  new_tab: false
+  children: []
+  path: "/pages/legal-information"
+  file: content/en/pages/legal-information/_index.html
+
