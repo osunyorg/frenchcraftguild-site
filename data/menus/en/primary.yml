@@ -57,7 +57,7 @@ items:
     file: content/en/pages/actions/events-exhibitions/prototype/_index.html
   path: "/pages/actions"
   file: content/en/pages/actions/_index.html
-- title: Posts
+- title: News
   target: "/en/posts/"
   kind: page
   new_tab: false
