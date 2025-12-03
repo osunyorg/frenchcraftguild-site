@@ -25,12 +25,21 @@ header#document-header
             p
                 display: none
 
-.posts--grid
-    .post
-        margin-bottom: $spacing-4
-        @include media-breakpoint-down(desktop)
-        .post-title
-            margin-bottom: $spacing-2
+.posts
+    &--grid
+        .post
+            margin-bottom: $spacing-4
+            @include media-breakpoint-down(desktop)
+            .post-title
+                margin-bottom: $spacing-2
+
+    &--list
+        .post-content
+            hgroup,
+            > .post-title
+                order: -2
+            .post-categories
+                order: -1
 
 .organizations__section
     @include media-breakpoint-up(desktop)
