@@ -4,7 +4,7 @@ params:
   debug:
     productionUrl: https://site.frenchcraftguild.osuny.site
   breadcrumb:
-    position: hero-start
+    position: after-hero-title
   home:
     head:
       title: site
