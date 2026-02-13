@@ -2,8 +2,10 @@
 title: Liens sociaux
 items:
 - title: Newsletter
+  slug: newsletter
   target: https://mailchi.mp/abc3f974d33b/letskeepinfrenchtouch
   kind: url
   new_tab: true
   children: []
+  descendants_targets: []
 

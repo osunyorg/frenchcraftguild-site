@@ -2,80 +2,108 @@
 title: Menu principal
 items:
 - title: À propos
+  slug: a-propos
   target: "/fr/a-propos/"
   kind: page
   new_tab: false
   children:
   - title: Vision & missions
+    slug: vision-missions
     target: "/fr/a-propos/vision-missions/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/a-propos/vision-missions"
     file: content/fr/pages/a-propos/vision-missions/_index.html
   - title: Manifeste
+    slug: manifeste
     target: "/fr/a-propos/manifeste-craftpower/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/a-propos/manifeste-craftpower"
     file: content/fr/pages/a-propos/manifeste-craftpower/_index.html
   - title: Gouvernance
+    slug: gouvernance
     target: "/fr/a-propos/gouvernance/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/a-propos/gouvernance"
     file: content/fr/pages/a-propos/gouvernance/_index.html
+  descendants_targets:
+  - "/fr/a-propos/gouvernance/"
+  - "/fr/a-propos/manifeste-craftpower/"
+  - "/fr/a-propos/vision-missions/"
   path: "/pages/a-propos"
   file: content/fr/pages/a-propos/_index.html
 - title: Actions
+  slug: actions
   target: "/fr/actions/"
   kind: page
   new_tab: false
   children:
   - title: Rencontres
+    slug: rencontres
     target: "/fr/actions/rencontres/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/actions/rencontres"
     file: content/fr/pages/actions/rencontres/_index.html
   - title: Événements & salons
+    slug: evenements-salons
     target: "/fr/actions/evenements-salons/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/actions/evenements-salons"
     file: content/fr/pages/actions/evenements-salons/_index.html
   - title: Webinaires
+    slug: webinaires
     target: "/fr/actions/webinaires/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/actions/webinaires"
     file: content/fr/pages/actions/webinaires/_index.html
+  descendants_targets:
+  - "/fr/actions/evenements-salons/"
+  - "/fr/actions/rencontres/"
+  - "/fr/actions/webinaires/"
   path: "/pages/actions"
   file: content/fr/pages/actions/_index.html
 - title: Actualités
+  slug: actualites
   target: "/fr/actualites/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/posts"
   file: content/fr/posts/_index.html
 - title: Agenda
+  slug: agenda
   target: "/fr/agenda/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/events"
   file: content/fr/events/_index.html
 - title: Membres
+  slug: membres
   target: "/fr/membres/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/pages/membres"
   file: content/fr/pages/membres/_index.html
 

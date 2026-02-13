@@ -2,80 +2,108 @@
 title: Main menu
 items:
 - title: About
+  slug: about
   target: "/en/about/"
   kind: page
   new_tab: false
   children:
   - title: Vision & missions
+    slug: vision-missions
     target: "/en/about/vision-missions/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/about/vision-missions"
     file: content/en/pages/about/vision-missions/_index.html
   - title: Manifesto
+    slug: manifesto
     target: "/en/about/manifesto-craftpower/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/about/manifesto-craftpower"
     file: content/en/pages/about/manifesto-craftpower/_index.html
   - title: Governance
+    slug: governance
     target: "/en/about/governance/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/about/governance"
     file: content/en/pages/about/governance/_index.html
+  descendants_targets:
+  - "/en/about/governance/"
+  - "/en/about/manifesto-craftpower/"
+  - "/en/about/vision-missions/"
   path: "/pages/about"
   file: content/en/pages/about/_index.html
 - title: Actions
+  slug: actions
   target: "/en/actions/"
   kind: page
   new_tab: false
   children:
   - title: Resources
+    slug: resources
     target: "/en/actions/resources/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/actions/resources"
     file: content/en/pages/actions/resources/_index.html
   - title: Showroom
+    slug: showroom
     target: "/en/e-showroom/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/e-showroom"
     file: content/en/pages/e-showroom/_index.html
   - title: Prototypes
+    slug: prototypes
     target: "/en/actions/events-exhibitions/prototype/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/actions/events-exhibitions/prototype"
     file: content/en/pages/actions/events-exhibitions/prototype/_index.html
+  descendants_targets:
+  - "/en/actions/events-exhibitions/prototype/"
+  - "/en/actions/resources/"
+  - "/en/e-showroom/"
   path: "/pages/actions"
   file: content/en/pages/actions/_index.html
 - title: News
+  slug: news
   target: "/en/posts/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/posts"
   file: content/en/posts/_index.html
 - title: Agenda
+  slug: agenda
   target: "/en/agenda/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/events"
   file: content/en/events/_index.html
 - title: Members
+  slug: members
   target: "/en/members/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/pages/members"
   file: content/en/pages/members/_index.html
 
