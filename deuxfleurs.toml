@@ -15,970 +15,970 @@ for = ["**/*.png", "**/*.jpg", "**/*.jpeg", "**/*.gif", "**/*.webp"]
 Cache-Control = "max-age=31536000, no-transform, public"
 
 [[redirects]]
-from = "/actualites/"
+from = "/actualites/index.html"
 to = "/fr/actualites/"
 
 [[redirects]]
-from = "/agenda/2024/06/"
+from = "/agenda/2024/06/index.html"
 to = "/fr/agenda/2024/06/"
 
 [[redirects]]
-from = "/agenda/2025/11/"
+from = "/agenda/2025/11/index.html"
 to = "/fr/agenda/2025/11/"
 
 [[redirects]]
-from = "/agenda/2024-12-12-pour-une-innovation-publique-et-une-economie-des-metiers-dart/"
+from = "/agenda/2024-12-12-pour-une-innovation-publique-et-une-economie-des-metiers-dart/index.html"
 to = "/fr/agenda/2024/pour-une-innovation-publique-et-une-economie-des-metiers-dart/"
 
 [[redirects]]
-from = "/actions/resources/"
+from = "/actions/resources/index.html"
 to = "/en/actions/resources/"
 
 [[redirects]]
-from = "/gouvernance/"
+from = "/gouvernance/index.html"
 to = "/fr/a-propos/gouvernance/"
 
 [[redirects]]
-from = "/fr/actualites/2023-09-07-rencontres-des-savoir-faire/"
+from = "/fr/actualites/2023-09-07-rencontres-des-savoir-faire/index.html"
 to = "/fr/actualites/2024-09-30-nouveau-cycle-de-rencontres-des-savoir-faire-automne-hiver-2024/"
 
 [[redirects]]
-from = "/fr/actions/ressources/rencontres/"
+from = "/fr/actions/ressources/rencontres/index.html"
 to = "/fr/actions/rencontres/"
 
 [[redirects]]
-from = "/expositions/"
+from = "/expositions/index.html"
 to = "/fr/actions/expositions/"
 
 [[redirects]]
-from = "/fr/actions/ressources/webinaires/"
+from = "/fr/actions/ressources/webinaires/index.html"
 to = "/fr/actions/webinaires/"
 
 [[redirects]]
-from = "/ressources/"
+from = "/ressources/index.html"
 to = "/fr/actions/ressources/"
 
 [[redirects]]
-from = "/evenements-salons/"
+from = "/evenements-salons/index.html"
 to = "/fr/actions/evenements-salons/"
 
 [[redirects]]
-from = "/organisations/"
+from = "/organisations/index.html"
 to = "/fr/organisations/"
 
 [[redirects]]
-from = "/workshops/"
+from = "/workshops/index.html"
 to = "/fr/actions/workshops/"
 
 [[redirects]]
-from = "/manifeste/"
+from = "/manifeste/index.html"
 to = "/fr/a-propos/manifeste-craftpower/"
 
 [[redirects]]
-from = "/organisations/maison-alivon/"
+from = "/organisations/maison-alivon/index.html"
 to = "/fr/organisations/maison-alivon/"
 
 [[redirects]]
-from = "/agenda/2024/07/"
+from = "/agenda/2024/07/index.html"
 to = "/fr/agenda/2024/07/"
 
 [[redirects]]
-from = "/agenda/2025-03-25-lart-de-recuperer-recycler-ou-comment-la-contrainte-devient-un-levier-de-creativite/"
+from = "/agenda/2025-03-25-lart-de-recuperer-recycler-ou-comment-la-contrainte-devient-un-levier-de-creativite/index.html"
 to = "/fr/agenda/2025/lart-de-recuperer-recycler-ou-comment-la-contrainte-devient-un-levier-de-creativite/"
 
 [[redirects]]
-from = "/ressources/rencontres/"
+from = "/ressources/rencontres/index.html"
 to = "/fr/actions/rencontres/"
 
 [[redirects]]
-from = "/actualites/2024-08-29-french-craft-x-the-odp-letter/"
+from = "/actualites/2024-08-29-french-craft-x-the-odp-letter/index.html"
 to = "/fr/actualites/2023-09-07-french-craft-x-the-odp-letter/"
 
 [[redirects]]
-from = "/agenda/2025/rencontres-des-savoir-faire-printemps-2025/"
+from = "/agenda/2025/rencontres-des-savoir-faire-printemps-2025/index.html"
 to = "/fr/agenda/2025/rencontres-des-savoir-faire-printemps-2025/"
 
 [[redirects]]
-from = "/equipe/pascale-lesage/"
+from = "/equipe/pascale-lesage/index.html"
 to = "/fr/equipe/pascale-lesage/"
 
 [[redirects]]
-from = "/equipe/antoine-beaudoin/"
+from = "/equipe/antoine-beaudoin/index.html"
 to = "/fr/equipe/antoine-beaudoin/"
 
 [[redirects]]
-from = "/ressources/workshops/"
+from = "/ressources/workshops/index.html"
 to = "/fr/actions/workshops/"
 
 [[redirects]]
-from = "/organisations/luxdawn/"
+from = "/organisations/luxdawn/index.html"
 to = "/fr/organisations/lyse-drouaine/"
 
 [[redirects]]
-from = "/agenda/2024-11-18-festival-fairespectives-au-campus-versailles/"
+from = "/agenda/2024-11-18-festival-fairespectives-au-campus-versailles/index.html"
 to = "/fr/agenda/2024/festival-fairespectives-au-campus-versailles/"
 
 [[redirects]]
-from = "/actions/e-showroom/"
+from = "/actions/e-showroom/index.html"
 to = "/fr/e-showroom/"
 
 [[redirects]]
-from = "/agenda/2024/08/"
+from = "/agenda/2024/08/index.html"
 to = "/fr/agenda/2024/08/"
 
 [[redirects]]
-from = "/agenda/2024/05/"
+from = "/agenda/2024/05/index.html"
 to = "/fr/agenda/2024/05/"
 
 [[redirects]]
-from = "/organisations/le-jacquard-francais/"
+from = "/organisations/le-jacquard-francais/index.html"
 to = "/fr/organisations/le-jacquard-francais/"
 
 [[redirects]]
-from = "/agenda/2025/ia-intelligence-artisanale/"
+from = "/agenda/2025/ia-intelligence-artisanale/index.html"
 to = "/fr/agenda/2025/ia-intelligence-artisanale/"
 
 [[redirects]]
-from = "/organisations/atelier-lucile-viaud/"
+from = "/organisations/atelier-lucile-viaud/index.html"
 to = "/fr/organisations/atelier-lucile-viaud/"
 
 [[redirects]]
-from = "/actualites/2020-09-03-paris-design-week-2020/"
+from = "/actualites/2020-09-03-paris-design-week-2020/index.html"
 to = "/fr/actualites/2020-09-03-paris-design-week-2020/"
 
 [[redirects]]
-from = "/expositions/archives-expositions/"
+from = "/expositions/archives-expositions/index.html"
 to = "/fr/actions/expositions/archives-expositions/"
 
 [[redirects]]
-from = "/actualites/2021-10-13-les-rendez-vous-de-la-matiere/"
+from = "/actualites/2021-10-13-les-rendez-vous-de-la-matiere/index.html"
 to = "/fr/actualites/2021-10-13-les-rendez-vous-de-la-matiere/"
 
 [[redirects]]
-from = "/agenda/2024/11/"
+from = "/agenda/2024/11/index.html"
 to = "/fr/agenda/2024/11/"
 
 [[redirects]]
-from = "/fr/actions/ressources/rencontres/rencontres-des-savoir-faire/"
+from = "/fr/actions/ressources/rencontres/rencontres-des-savoir-faire/index.html"
 to = "/fr/actions/rencontres/rencontres-des-savoir-faire/"
 
 [[redirects]]
-from = "/actualites/2024-09-30-nouveau-cycle-de-rencontres-des-savoir-faire-automne-hiver-2024/"
+from = "/actualites/2024-09-30-nouveau-cycle-de-rencontres-des-savoir-faire-automne-hiver-2024/index.html"
 to = "/fr/actualites/2024-09-30-nouveau-cycle-de-rencontres-des-savoir-faire-automne-hiver-2024/"
 
 [[redirects]]
-from = "/fr/expositions/archives-expositions/"
+from = "/fr/expositions/archives-expositions/index.html"
 to = "/fr/actions/expositions/archives-expositions/"
 
 [[redirects]]
-from = "/actualites/2021-05-21-archilive-19-20-mai-2021/"
+from = "/actualites/2021-05-21-archilive-19-20-mai-2021/index.html"
 to = "/fr/actualites/2021-05-21-archilive-19-20-mai-2021/"
 
 [[redirects]]
-from = "/organisations/senequier/"
+from = "/organisations/senequier/index.html"
 to = "/fr/organisations/senequier/"
 
 [[redirects]]
-from = "/organisations/caroline-besse/"
+from = "/organisations/caroline-besse/index.html"
 to = "/fr/organisations/caroline-besse/"
 
 [[redirects]]
-from = "/membres/maceo-paris/"
+from = "/membres/maceo-paris/index.html"
 to = "/fr/organisations/maceo-paris/"
 
 [[redirects]]
-from = "/membres/reseau-excellence-epv/"
+from = "/membres/reseau-excellence-epv/index.html"
 to = "/fr/organisations/reseau-excellence-epv/"
 
 [[redirects]]
-from = "/organisations/arthylae/"
+from = "/organisations/arthylae/index.html"
 to = "/fr/organisations/arthylae/"
 
 [[redirects]]
-from = "/fr/actions/prototypes/"
+from = "/fr/actions/prototypes/index.html"
 to = "/fr/actions/evenements-salons/prototype/"
 
 [[redirects]]
-from = "/actions/ressources/webinaires/"
+from = "/actions/ressources/webinaires/index.html"
 to = "/fr/actions/webinaires/"
 
 [[redirects]]
-from = "/projets/"
+from = "/projets/index.html"
 to = "/fr/projets/"
 
 [[redirects]]
-from = "/membres/artisans-davenir/"
+from = "/membres/artisans-davenir/index.html"
 to = "/organisations/artisans-davenir/"
 
 [[redirects]]
-from = "/fr/actions/archives-expositions/"
+from = "/fr/actions/archives-expositions/index.html"
 to = "/fr/actions/expositions/archives-expositions/"
 
 [[redirects]]
-from = "/politique-de-confidentialite/"
+from = "/politique-de-confidentialite/index.html"
 to = "/fr/politique-de-confidentialite/"
 
 [[redirects]]
-from = "/fr/a-propos/partenaires/"
+from = "/fr/a-propos/partenaires/index.html"
 to = "/a-propos/partenaires/"
 
 [[redirects]]
-from = "/agenda/archives/"
+from = "/agenda/archives/index.html"
 to = "/fr/agenda/archives/"
 
 [[redirects]]
-from = "/en/posts/2025-09-04-first-augmented-co-creation-workshop/"
+from = "/en/posts/2025-09-04-first-augmented-co-creation-workshop/index.html"
 to = "/en/posts/2025-10-06-first-augmented-co-creation-workshop/"
 
 [[redirects]]
-from = "/en/organizations/luxdawn/"
+from = "/en/organizations/luxdawn/index.html"
 to = "/en/organizations/lyse-drouaine/"
 
 [[redirects]]
-from = "/en/actions/resources/workshops/"
+from = "/en/actions/resources/workshops/index.html"
 to = "/en/actions/workshops/"
 
 [[redirects]]
-from = "/organisations/milodina/"
+from = "/organisations/milodina/index.html"
 to = "/fr/organisations/milodina/"
 
 [[redirects]]
-from = "/en/actions/e-showroom/"
+from = "/en/actions/e-showroom/index.html"
 to = "/en/e-showroom/"
 
 [[redirects]]
-from = "/en/agenda/2026/know-how-meetings-spring-2025-1/"
+from = "/en/agenda/2026/know-how-meetings-spring-2025-1/index.html"
 to = "/en/agenda/2026/know-how-meetings-spring-2026/"
 
 [[redirects]]
-from = "/agenda/2025/rencontres-des-savoir-faire-printemps-2025/lart-de-recupererrecycler-ou-comment-la-contrainte-devient-un-levier-de-creativite/"
+from = "/agenda/2025/rencontres-des-savoir-faire-printemps-2025/lart-de-recupererrecycler-ou-comment-la-contrainte-devient-un-levier-de-creativite/index.html"
 to = "/fr/agenda/2025/rencontres-des-savoir-faire-printemps-2025/lart-de-recupererrecycler-ou-comment-la-contrainte-devient-un-levier-de-creativite/"
 
 [[redirects]]
-from = "/equipe/aline-lozach/"
+from = "/equipe/aline-lozach/index.html"
 to = "/fr/equipe/aline-lozach/"
 
 [[redirects]]
-from = "/actions/resources/workshops/"
+from = "/actions/resources/workshops/index.html"
 to = "/en/actions/workshops/"
 
 [[redirects]]
-from = "/membres/caroline-besse/"
+from = "/membres/caroline-besse/index.html"
 to = "/fr/organisations/caroline-besse/"
 
 [[redirects]]
-from = "/actualites/2022-02-09-rencontre-artisans-designers-les-secrets-dune-collaboration-reussie/"
+from = "/actualites/2022-02-09-rencontre-artisans-designers-les-secrets-dune-collaboration-reussie/index.html"
 to = "/fr/actualites/2022-02-09-artisans-designers-les-secrets-d-une-collaboration-reussie/"
 
 [[redirects]]
-from = "/agenda/2025/know-how-meetings-spring-2025/"
+from = "/agenda/2025/know-how-meetings-spring-2025/index.html"
 to = "/en/agenda/2025/know-how-meetings-spring-2025/"
 
 [[redirects]]
-from = "/actualites/2022-09-12-ml-craft-la-capsule-dediee-aux-materiaux-et-savoir-faire-dexception-de-materials-light/"
+from = "/actualites/2022-09-12-ml-craft-la-capsule-dediee-aux-materiaux-et-savoir-faire-dexception-de-materials-light/index.html"
 to = "/fr/actualites/2022-09-12-ml-craft-la-capsule-dediee-aux-materiaux-et-savoir-faire-dexception-de-materials-light/"
 
 [[redirects]]
-from = "/organisations/noesya/"
+from = "/organisations/noesya/index.html"
 to = "/fr/organisations/noesya/"
 
 [[redirects]]
-from = "/equipe/sophie-chenel/"
+from = "/equipe/sophie-chenel/index.html"
 to = "/fr/equipe/sophie-chenel/"
 
 [[redirects]]
-from = "/organisations/categories/membres/"
+from = "/organisations/categories/membres/index.html"
 to = "/fr/organisations/categories/membres/"
 
 [[redirects]]
-from = "/a-propos/manifeste-craftpower/"
+from = "/a-propos/manifeste-craftpower/index.html"
 to = "/fr/a-propos/manifeste-craftpower/"
 
 [[redirects]]
-from = "/actualites/2023-11-10-festival-fairespectives-au-campus-versailles/"
+from = "/actualites/2023-11-10-festival-fairespectives-au-campus-versailles/index.html"
 to = "/fr/actualites/2023-11-10-festival-fairespectives-au-campus-versailles/"
 
 [[redirects]]
-from = "/actualites/2022-11-14-journees-europeennes-du-patrimoine/"
+from = "/actualites/2022-11-14-journees-europeennes-du-patrimoine/index.html"
 to = "/fr/actualites/2022-11-14-journees-europeennes-du-patrimoine/"
 
 [[redirects]]
-from = "/fr/membres/la-compagnie-du-verre/"
+from = "/fr/membres/la-compagnie-du-verre/index.html"
 to = "/fr/organisations/la-compagnie-du-verre/"
 
 [[redirects]]
-from = "/vision-missions/"
+from = "/vision-missions/index.html"
 to = "/fr/a-propos/vision-missions/"
 
 [[redirects]]
-from = "/equipe/"
+from = "/equipe/index.html"
 to = "/fr/equipe/"
 
 [[redirects]]
-from = "/equipe/equipe-editoriale/"
+from = "/equipe/equipe-editoriale/index.html"
 to = "/fr/equipe/equipe-editoriale/"
 
 [[redirects]]
-from = "/organisations/reseau-excellence-epv/"
+from = "/organisations/reseau-excellence-epv/index.html"
 to = "/fr/organisations/reseau-excellence-epv/"
 
 [[redirects]]
-from = "/fr/expositions/"
+from = "/fr/expositions/index.html"
 to = "/fr/actions/expositions/"
 
 [[redirects]]
-from = "/webinaires/"
+from = "/webinaires/index.html"
 to = "/fr/actions/webinaires/"
 
 [[redirects]]
-from = "/fr/actions/e-showroom/"
+from = "/fr/actions/e-showroom/index.html"
 to = "/fr/e-showroom/"
 
 [[redirects]]
-from = "/membres/la-compagnie-du-verre/"
+from = "/membres/la-compagnie-du-verre/index.html"
 to = "/fr/organisations/la-compagnie-du-verre/"
 
 [[redirects]]
-from = "/plan-du-site/"
+from = "/plan-du-site/index.html"
 to = "/fr/plan-du-site/"
 
 [[redirects]]
-from = "/actualites/2023-09-07-french-craft-x-the-odp-letter/"
+from = "/actualites/2023-09-07-french-craft-x-the-odp-letter/index.html"
 to = "/fr/actualites/2023-09-07-french-craft-x-the-odp-letter/"
 
 [[redirects]]
-from = "/actualites/2024-06-20-workshop-tissages-dart-innovants/"
+from = "/actualites/2024-06-20-workshop-tissages-dart-innovants/index.html"
 to = "/fr/actualites/2022-03-24-tissages-d-art-innovants/"
 
 [[redirects]]
-from = "/membres/senequier/"
+from = "/membres/senequier/index.html"
 to = "/fr/organisations/senequier/"
 
 [[redirects]]
-from = "/fr/membres/maceo-paris/"
+from = "/fr/membres/maceo-paris/index.html"
 to = "/fr/organisations/maceo-paris/"
 
 [[redirects]]
-from = "/fr/organisations/lily-latify/"
+from = "/fr/organisations/lily-latify/index.html"
 to = "/fr/organisations/lily-latifi/"
 
 [[redirects]]
-from = "/manifeste-craftpower/"
+from = "/manifeste-craftpower/index.html"
 to = "/fr/a-propos/manifeste-craftpower/"
 
 [[redirects]]
-from = "/actions/ressources/"
+from = "/actions/ressources/index.html"
 to = "/fr/actions/ressources/"
 
 [[redirects]]
-from = "/fr/actualites/2024-09-30-nouveau-cycle-de-rencontres-des-savoir-faire/"
+from = "/fr/actualites/2024-09-30-nouveau-cycle-de-rencontres-des-savoir-faire/index.html"
 to = "/fr/actualites/2024-09-30-nouveau-cycle-de-rencontres-des-savoir-faire-automne-hiver-2024/"
 
 [[redirects]]
-from = "/organisations/odp/"
+from = "/organisations/odp/index.html"
 to = "/fr/organisations/odp/"
 
 [[redirects]]
-from = "/fr/membres/daumet/"
+from = "/fr/membres/daumet/index.html"
 to = "/fr/organisations/daumet/"
 
 [[redirects]]
-from = "/devenir-membre/"
+from = "/devenir-membre/index.html"
 to = "/fr/devenir-membre/"
 
 [[redirects]]
-from = "/agenda/2025/05/"
+from = "/agenda/2025/05/index.html"
 to = "/fr/agenda/2025/05/"
 
 [[redirects]]
-from = "/fr/actions/ressources/entre-nous/"
+from = "/fr/actions/ressources/entre-nous/index.html"
 to = "/actions/ressources/entre-nous/"
 
 [[redirects]]
-from = "/membres/maison-alivon/"
+from = "/membres/maison-alivon/index.html"
 to = "/fr/organisations/maison-alivon/"
 
 [[redirects]]
-from = "/ressources/entre-nous/"
+from = "/ressources/entre-nous/index.html"
 to = "/actions/ressources/entre-nous/"
 
 [[redirects]]
-from = "/fr/actualites/2023-09-07-rencontres-des-savoir-faire-1/"
+from = "/fr/actualites/2023-09-07-rencontres-des-savoir-faire-1/index.html"
 to = "/fr/actualites/2024-11-15-pour-une-innovation-publique-et-une-economie-des-metiers-d-art/"
 
 [[redirects]]
-from = "/fr/membres/atelier-elsa-dinerstein/"
+from = "/fr/membres/atelier-elsa-dinerstein/index.html"
 to = "/fr/organisations/atelier-elsa-dinerstein/"
 
 [[redirects]]
-from = "/actualites/2022-03-07-design-et-metiers-d-art-vers-un-artisanat-numerique-intramuros-magazine/"
+from = "/actualites/2022-03-07-design-et-metiers-d-art-vers-un-artisanat-numerique-intramuros-magazine/index.html"
 to = "/fr/actualites/2022-03-07-design-et-metiers-d-art-vers-un-artisanat-numerique-intramuros-magazine/"
 
 [[redirects]]
-from = "/fr/membres/virginie-brunet/"
+from = "/fr/membres/virginie-brunet/index.html"
 to = "/fr/organisations/virginie-brunet/"
 
 [[redirects]]
-from = "/agenda/2025/08/"
+from = "/agenda/2025/08/index.html"
 to = "/fr/agenda/2025/08/"
 
 [[redirects]]
-from = "/agenda/2024/01/"
+from = "/agenda/2024/01/index.html"
 to = "/fr/agenda/2024/01/"
 
 [[redirects]]
-from = "/agenda/2024/pour-une-innovation-publique-et-une-economie-des-metiers-dart/"
+from = "/agenda/2024/pour-une-innovation-publique-et-une-economie-des-metiers-dart/index.html"
 to = "/fr/agenda/2024/pour-une-innovation-publique-et-une-economie-des-metiers-dart/"
 
 [[redirects]]
-from = "/en/agenda/2025/know-how-meetings-spring-2025/2025-03-25-the-art-of-recovering-recycling-or-how-constraint-becomes-a-creative-lever/"
+from = "/en/agenda/2025/know-how-meetings-spring-2025/2025-03-25-the-art-of-recovering-recycling-or-how-constraint-becomes-a-creative-lever/index.html"
 to = "/en/agenda/2025/know-how-meetings-spring-2025/the-art-of-recovering-recycling-or-how-constraint-becomes-a-creative-lever/"
 
 [[redirects]]
-from = "/organisations/atelier-landes/"
+from = "/organisations/atelier-landes/index.html"
 to = "/fr/organisations/atelier-landes/"
 
 [[redirects]]
-from = "/en/actions/events-exhibitions/prototypes/"
+from = "/en/actions/events-exhibitions/prototypes/index.html"
 to = "/en/actions/events-exhibitions/prototype/"
 
 [[redirects]]
-from = "/organisations/categories/partenaires/"
+from = "/organisations/categories/partenaires/index.html"
 to = "/fr/organisations/categories/partenaires/"
 
 [[redirects]]
-from = "/a-propos/gouvernance/"
+from = "/a-propos/gouvernance/index.html"
 to = "/fr/a-propos/gouvernance/"
 
 [[redirects]]
-from = "/membres/categories/partenaires/"
+from = "/membres/categories/partenaires/index.html"
 to = "/fr/organisations/categories/partenaires/"
 
 [[redirects]]
-from = "/equipe/magali-lancien/"
+from = "/equipe/magali-lancien/index.html"
 to = "/fr/equipe/magali-lancien/"
 
 [[redirects]]
-from = "/actualites/2022-10-13-les-rendez-vous-de-la-matiere-1/"
+from = "/actualites/2022-10-13-les-rendez-vous-de-la-matiere-1/index.html"
 to = "/fr/actualites/2022-10-13-les-rendez-vous-de-la-matiere-2022/"
 
 [[redirects]]
-from = "/fr/membres/maison-alivon/"
+from = "/fr/membres/maison-alivon/index.html"
 to = "/fr/organisations/maison-alivon/"
 
 [[redirects]]
-from = "/prototypes/"
+from = "/prototypes/index.html"
 to = "/fr/actions/evenements-salons/prototype/"
 
 [[redirects]]
-from = "/actions/ressources/workshops/"
+from = "/actions/ressources/workshops/index.html"
 to = "/fr/actions/workshops/"
 
 [[redirects]]
-from = "/organisations/nosqua/"
+from = "/organisations/nosqua/index.html"
 to = "/fr/organisations/nosqua/"
 
 [[redirects]]
-from = "/agenda/2025/rencontres-des-savoir-faire-printemps-2025/la-nature-comme-ressource-quoi-de-nouveau/"
+from = "/agenda/2025/rencontres-des-savoir-faire-printemps-2025/la-nature-comme-ressource-quoi-de-nouveau/index.html"
 to = "/fr/agenda/2025/rencontres-des-savoir-faire-printemps-2025/la-nature-comme-ressource-quoi-de-nouveau/"
 
 [[redirects]]
-from = "/agenda/2025/"
+from = "/agenda/2025/index.html"
 to = "/fr/agenda/2025/"
 
 [[redirects]]
-from = "/en/actions/resources/meetings/know-how-meetings/"
+from = "/en/actions/resources/meetings/know-how-meetings/index.html"
 to = "/en/actions/meetings/know-how-meetings/"
 
 [[redirects]]
-from = "/actions/resources/meetings/"
+from = "/actions/resources/meetings/index.html"
 to = "/en/actions/meetings/"
 
 [[redirects]]
-from = "/agenda/2025/rencontres-des-savoir-faire-printemps-2025/les-acteurs-du-faire-les-nouveaux-poles-integratifs-des-metiers-dart/"
+from = "/agenda/2025/rencontres-des-savoir-faire-printemps-2025/les-acteurs-du-faire-les-nouveaux-poles-integratifs-des-metiers-dart/index.html"
 to = "/fr/agenda/2025/rencontres-des-savoir-faire-printemps-2025/les-acteurs-du-faire-les-nouveaux-poles-integratifs-des-metiers-dart/"
 
 [[redirects]]
-from = "/en/actions/resources/webinars/"
+from = "/en/actions/resources/webinars/index.html"
 to = "/en/actions/webinars/"
 
 [[redirects]]
-from = "/organisations/jauh/"
+from = "/organisations/jauh/index.html"
 to = "/fr/organisations/jauh/"
 
 [[redirects]]
-from = "/actualites/blog-trotter/"
+from = "/actualites/blog-trotter/index.html"
 to = "/fr/actualites/blog-trotter/"
 
 [[redirects]]
-from = "/fr/membres/jauh/"
+from = "/fr/membres/jauh/index.html"
 to = "/fr/organisations/jauh/"
 
 [[redirects]]
-from = "/agenda/"
+from = "/agenda/index.html"
 to = "/fr/agenda/"
 
 [[redirects]]
-from = "/fr/membres/procedes-chenel-international/"
+from = "/fr/membres/procedes-chenel-international/index.html"
 to = "/fr/organisations/procedes-chenel-international/"
 
 [[redirects]]
-from = "/en/agenda/2025/know-how-meetings-spring-2025/2025-04-29-actors-in-the-making-the-new-integrative-clusters-of-art-and-crafts/"
+from = "/en/agenda/2025/know-how-meetings-spring-2025/2025-04-29-actors-in-the-making-the-new-integrative-clusters-of-art-and-crafts/index.html"
 to = "/en/agenda/2025/know-how-meetings-spring-2025/actors-in-the-making-the-new-integrative-clusters-of-art-and-crafts/"
 
 [[redirects]]
-from = "/posts/2024-09-30-new-cycle-of-rencontres-des-savoir-faire/"
+from = "/posts/2024-09-30-new-cycle-of-rencontres-des-savoir-faire/index.html"
 to = "/en/posts/2024-09-30-new-cycle-of-rencontres-des-savoir-faire/"
 
 [[redirects]]
-from = "/membres/luxdawn/"
+from = "/membres/luxdawn/index.html"
 to = "/fr/organisations/lyse-drouaine/"
 
 [[redirects]]
-from = "/a-propos/"
+from = "/a-propos/index.html"
 to = "/fr/a-propos/"
 
 [[redirects]]
-from = "/organisations/atelier-elsa-dinerstein/"
+from = "/organisations/atelier-elsa-dinerstein/index.html"
 to = "/fr/organisations/atelier-elsa-dinerstein/"
 
 [[redirects]]
-from = "/agenda/2025/04/"
+from = "/agenda/2025/04/index.html"
 to = "/fr/agenda/2025/04/"
 
 [[redirects]]
-from = "/fr/a-propos/manifeste/"
+from = "/fr/a-propos/manifeste/index.html"
 to = "/fr/a-propos/manifeste-craftpower/"
 
 [[redirects]]
-from = "/a-propos/actions/"
+from = "/a-propos/actions/index.html"
 to = "/fr/actions/"
 
 [[redirects]]
-from = "/fr/membres/arthylae/"
+from = "/fr/membres/arthylae/index.html"
 to = "/fr/organisations/arthylae/"
 
 [[redirects]]
-from = "/agenda/2024/02/"
+from = "/agenda/2024/02/index.html"
 to = "/fr/agenda/2024/02/"
 
 [[redirects]]
-from = "/fr/membres/milodina/"
+from = "/fr/membres/milodina/index.html"
 to = "/fr/organisations/milodina/"
 
 [[redirects]]
-from = "/actualites/2020-07-05-les-notes-douces-ameres-de-nico-de-soto-french-bartender/"
+from = "/actualites/2020-07-05-les-notes-douces-ameres-de-nico-de-soto-french-bartender/index.html"
 to = "/fr/actualites/2020-07-05-les-notes-douces-ameres-de-nico-de-soto-french-bartender/"
 
 [[redirects]]
-from = "/agenda/2024/03/"
+from = "/agenda/2024/03/index.html"
 to = "/fr/agenda/2024/03/"
 
 [[redirects]]
-from = "/agenda/2025/03/"
+from = "/agenda/2025/03/index.html"
 to = "/fr/agenda/2025/03/"
 
 [[redirects]]
-from = "/agenda/2024/"
+from = "/agenda/2024/index.html"
 to = "/fr/agenda/2024/"
 
 [[redirects]]
-from = "/en/actions/resources/meetings/"
+from = "/en/actions/resources/meetings/index.html"
 to = "/en/actions/meetings/"
 
 [[redirects]]
-from = "/agenda/2024/04/"
+from = "/agenda/2024/04/index.html"
 to = "/fr/agenda/2024/04/"
 
 [[redirects]]
-from = "/actualites/evenements-salons/"
+from = "/actualites/evenements-salons/index.html"
 to = "/fr/actualites/evenements-salons/"
 
 [[redirects]]
-from = "/fr/actualites/2025-09-04-premier-workshop-co-creation-augmentee/"
+from = "/fr/actualites/2025-09-04-premier-workshop-co-creation-augmentee/index.html"
 to = "/fr/actualites/2025-10-06-premier-workshop-co-creation-augmentee/"
 
 [[redirects]]
-from = "/actions/"
+from = "/actions/index.html"
 to = "/en/actions/"
 
 [[redirects]]
-from = "/fr/organisations/luxdawn/"
+from = "/fr/organisations/luxdawn/index.html"
 to = "/fr/organisations/lyse-drouaine/"
 
 [[redirects]]
-from = "/actualites/2022-02-09-artisans-designers-les-secrets-d-une-collaboration-reussie/"
+from = "/actualites/2022-02-09-artisans-designers-les-secrets-d-une-collaboration-reussie/index.html"
 to = "/fr/actualites/2022-02-09-artisans-designers-les-secrets-d-une-collaboration-reussie/"
 
 [[redirects]]
-from = "/membres/procedes-chenel-international/"
+from = "/membres/procedes-chenel-international/index.html"
 to = "/fr/organisations/procedes-chenel-international/"
 
 [[redirects]]
-from = "/membres/atelier-elsa-dinerstein/"
+from = "/membres/atelier-elsa-dinerstein/index.html"
 to = "/fr/organisations/atelier-elsa-dinerstein/"
 
 [[redirects]]
-from = "/ressources/webinaires/"
+from = "/ressources/webinaires/index.html"
 to = "/fr/actions/webinaires/"
 
 [[redirects]]
-from = "/fr/actions/evenements-salons/prototypes/"
+from = "/fr/actions/evenements-salons/prototypes/index.html"
 to = "/fr/actions/evenements-salons/prototype/"
 
 [[redirects]]
-from = "/fr/agenda/2025/rencontres-des-savoir-faire-printemps-2025/2025-03-25-lart-de-recupererrecycler-ou-comment-la-contrainte-devient-un-levier-de-creativite/"
+from = "/fr/agenda/2025/rencontres-des-savoir-faire-printemps-2025/2025-03-25-lart-de-recupererrecycler-ou-comment-la-contrainte-devient-un-levier-de-creativite/index.html"
 to = "/fr/agenda/2025/rencontres-des-savoir-faire-printemps-2025/lart-de-recupererrecycler-ou-comment-la-contrainte-devient-un-levier-de-creativite/"
 
 [[redirects]]
-from = "/actualites/2023-05-25-lancement-du-showroom-digital-de-la-french-craft/"
+from = "/actualites/2023-05-25-lancement-du-showroom-digital-de-la-french-craft/index.html"
 to = "/fr/actualites/2023-05-25-lancement-du-showroom-digital-de-la-french-craft/"
 
 [[redirects]]
-from = "/fr/membres/luxdawn/"
+from = "/fr/membres/luxdawn/index.html"
 to = "/fr/organisations/lyse-drouaine/"
 
 [[redirects]]
-from = "/actions/ressources/rencontres/rencontres-des-savoir-faire/"
+from = "/actions/ressources/rencontres/rencontres-des-savoir-faire/index.html"
 to = "/fr/actions/rencontres/rencontres-des-savoir-faire/"
 
 [[redirects]]
-from = "/agenda/2025/07/"
+from = "/agenda/2025/07/index.html"
 to = "/fr/agenda/2025/07/"
 
 [[redirects]]
-from = "/actualites/2022-03-24-workshop-tissages-dart-innovants/"
+from = "/actualites/2022-03-24-workshop-tissages-dart-innovants/index.html"
 to = "/fr/actualites/2022-03-24-tissages-d-art-innovants/"
 
 [[redirects]]
-from = "/agenda/2025/rencontres-des-savoir-faire-printemps-2025/2025-04-29-les-acteurs-du-faire-les-nouveaux-poles-integratifs-des-metiers-dart/"
+from = "/agenda/2025/rencontres-des-savoir-faire-printemps-2025/2025-04-29-les-acteurs-du-faire-les-nouveaux-poles-integratifs-des-metiers-dart/index.html"
 to = "/fr/agenda/2025/rencontres-des-savoir-faire-printemps-2025/les-acteurs-du-faire-les-nouveaux-poles-integratifs-des-metiers-dart/"
 
 [[redirects]]
-from = "/agenda/2025/10/"
+from = "/agenda/2025/10/index.html"
 to = "/fr/agenda/2025/10/"
 
 [[redirects]]
-from = "/a-propos/vision-missions/"
+from = "/a-propos/vision-missions/index.html"
 to = "/fr/a-propos/vision-missions/"
 
 [[redirects]]
-from = "/actualites/2022-02-10-workshop-chez-carlin-creative/"
+from = "/actualites/2022-02-10-workshop-chez-carlin-creative/index.html"
 to = "/fr/actualites/2022-02-10-workshop-chez-carlin-creative/"
 
 [[redirects]]
-from = "/en/agenda/2025/know-how-meetings-spring-2025-1/"
+from = "/en/agenda/2025/know-how-meetings-spring-2025-1/index.html"
 to = "/en/agenda/2026/know-how-meetings-spring-2026/"
 
 [[redirects]]
-from = "/membres/categories/membres/"
+from = "/membres/categories/membres/index.html"
 to = "/fr/organisations/categories/membres/"
 
 [[redirects]]
-from = "/actualites/2023-04-04-metiers-dart-et-biodesign/"
+from = "/actualites/2023-04-04-metiers-dart-et-biodesign/index.html"
 to = "/fr/actualites/2023-04-04-metiers-dart-et-biodesign/"
 
 [[redirects]]
-from = "/membres/jauh/"
+from = "/membres/jauh/index.html"
 to = "/fr/organisations/jauh/"
 
 [[redirects]]
-from = "/agenda/2024/09/"
+from = "/agenda/2024/09/index.html"
 to = "/fr/agenda/2024/09/"
 
 [[redirects]]
-from = "/actualites/2022-12-31-immersions-reussie-dans-les-metiers-dart/"
+from = "/actualites/2022-12-31-immersions-reussie-dans-les-metiers-dart/index.html"
 to = "/fr/actualites/2022-12-31-immersions-reussie-dans-les-metiers-dart/"
 
 [[redirects]]
-from = "/fr/membres/atelier-lucile-viaud/"
+from = "/fr/membres/atelier-lucile-viaud/index.html"
 to = "/fr/organisations/atelier-lucile-viaud/"
 
 [[redirects]]
-from = "/organisations/procedes-chenel-international/"
+from = "/organisations/procedes-chenel-international/index.html"
 to = "/fr/organisations/procedes-chenel-international/"
 
 [[redirects]]
-from = "/agenda/2025/12/"
+from = "/agenda/2025/12/index.html"
 to = "/fr/agenda/2025/12/"
 
 [[redirects]]
-from = "/mentions-legales/"
+from = "/mentions-legales/index.html"
 to = "/fr/mentions-legales/"
 
 [[redirects]]
-from = "/actualites/2024-11-15-pour-une-innovation-publique-et-une-economie-des-metiers-d-art/"
+from = "/actualites/2024-11-15-pour-une-innovation-publique-et-une-economie-des-metiers-d-art/index.html"
 to = "/fr/actualites/2024-11-15-pour-une-innovation-publique-et-une-economie-des-metiers-d-art/"
 
 [[redirects]]
-from = "/organisations/virginie-brunet/"
+from = "/organisations/virginie-brunet/index.html"
 to = "/fr/organisations/virginie-brunet/"
 
 [[redirects]]
-from = "/membres/milodina/"
+from = "/membres/milodina/index.html"
 to = "/fr/organisations/milodina/"
 
 [[redirects]]
-from = "/membres/nosqua/"
+from = "/membres/nosqua/index.html"
 to = "/fr/organisations/nosqua/"
 
 [[redirects]]
-from = "/agenda/2025/09/"
+from = "/agenda/2025/09/index.html"
 to = "/fr/agenda/2025/09/"
 
 [[redirects]]
-from = "/partenaires/"
+from = "/partenaires/index.html"
 to = "/a-propos/partenaires/"
 
 [[redirects]]
-from = "/en/agenda/2025/know-how-meetings-spring-2025/2025-05-20-nature-as-a-resource-what-s-new/"
+from = "/en/agenda/2025/know-how-meetings-spring-2025/2025-05-20-nature-as-a-resource-what-s-new/index.html"
 to = "/en/agenda/2025/know-how-meetings-spring-2025/nature-as-a-resource-what-s-new/"
 
 [[redirects]]
-from = "/fr/agenda/2024-11-18-festival-fairespectives-au-campus-versailles/"
+from = "/fr/agenda/2024-11-18-festival-fairespectives-au-campus-versailles/index.html"
 to = "/fr/agenda/2024/festival-fairespectives-au-campus-versailles/"
 
 [[redirects]]
-from = "/actualites/2020-05-21-archilive-19-20-mai-2020/"
+from = "/actualites/2020-05-21-archilive-19-20-mai-2020/index.html"
 to = "/fr/actualites/2021-05-21-archilive-19-20-mai-2021/"
 
 [[redirects]]
-from = "/membres/odp/"
+from = "/membres/odp/index.html"
 to = "/fr/organisations/odp/"
 
 [[redirects]]
-from = "/fr/actions/ressources/workshops/"
+from = "/fr/actions/ressources/workshops/index.html"
 to = "/fr/actions/workshops/"
 
 [[redirects]]
-from = "/membres/les-rencontres-des-savoir-faire/"
+from = "/membres/les-rencontres-des-savoir-faire/index.html"
 to = "/organisations/les-rencontres-des-savoir-faire/"
 
 [[redirects]]
-from = "/fr/page-de-test/"
+from = "/fr/page-de-test/index.html"
 to = "/page-de-test/"
 
 [[redirects]]
-from = "/en/exhibitions/exhibitions-archives/"
+from = "/en/exhibitions/exhibitions-archives/index.html"
 to = "/en/actions/exhibitions/exhibitions-archives/"
 
 [[redirects]]
-from = "/ressources/evenements-salons/"
+from = "/ressources/evenements-salons/index.html"
 to = "/fr/actions/evenements-salons/"
 
 [[redirects]]
-from = "/actualites/2022-10-13-les-rendez-vous-de-la-matiere-2022/"
+from = "/actualites/2022-10-13-les-rendez-vous-de-la-matiere-2022/index.html"
 to = "/fr/actualites/2022-10-13-les-rendez-vous-de-la-matiere-2022/"
 
 [[redirects]]
-from = "/about/vision-missions/"
+from = "/about/vision-missions/index.html"
 to = "/en/about/vision-missions/"
 
 [[redirects]]
-from = "/fr/agenda/2025/rencontres-des-savoir-faire-printemps-2025-1/"
+from = "/fr/agenda/2025/rencontres-des-savoir-faire-printemps-2025-1/index.html"
 to = "/fr/agenda/2026/rencontres-des-savoir-faire-printemps-2026-1/"
 
 [[redirects]]
-from = "/agenda/2024/for-public-innovation-and-a-craft-economy/"
+from = "/agenda/2024/for-public-innovation-and-a-craft-economy/index.html"
 to = "/en/agenda/2024/for-public-innovation-and-a-craft-economy/"
 
 [[redirects]]
-from = "/posts/2024-11-15-for-public-innovation-and-a-craft-economy/"
+from = "/posts/2024-11-15-for-public-innovation-and-a-craft-economy/index.html"
 to = "/en/posts/2024-11-15-for-public-innovation-and-a-craft-economy/"
 
 [[redirects]]
-from = "/accessibilite/"
+from = "/accessibilite/index.html"
 to = "/fr/accessibilite/"
 
 [[redirects]]
-from = "/agenda/2024/festival-fairespectives-au-campus-versailles/"
+from = "/agenda/2024/festival-fairespectives-au-campus-versailles/index.html"
 to = "/fr/agenda/2024/festival-fairespectives-au-campus-versailles/"
 
 [[redirects]]
-from = "/organisations/la-compagnie-du-verre/"
+from = "/organisations/la-compagnie-du-verre/index.html"
 to = "/fr/organisations/la-compagnie-du-verre/"
 
 [[redirects]]
-from = "/en/organizations/lily-latify/"
+from = "/en/organizations/lily-latify/index.html"
 to = "/en/organizations/lily-latifi/"
 
 [[redirects]]
-from = "/en/actions/prototypes/"
+from = "/en/actions/prototypes/index.html"
 to = "/en/actions/events-exhibitions/prototype/"
 
 [[redirects]]
-from = "/agenda/2025/01/"
+from = "/agenda/2025/01/index.html"
 to = "/fr/agenda/2025/01/"
 
 [[redirects]]
-from = "/actions/ressources/rencontres/"
+from = "/actions/ressources/rencontres/index.html"
 to = "/fr/actions/rencontres/"
 
 [[redirects]]
-from = "/agenda/2024/12/"
+from = "/agenda/2024/12/index.html"
 to = "/fr/agenda/2024/12/"
 
 [[redirects]]
-from = "/fr/membres/caroline-besse/"
+from = "/fr/membres/caroline-besse/index.html"
 to = "/fr/organisations/caroline-besse/"
 
 [[redirects]]
-from = "/agenda/2024/10/"
+from = "/agenda/2024/10/index.html"
 to = "/fr/agenda/2024/10/"
 
 [[redirects]]
-from = "/membres/le-jacquard-francais/"
+from = "/membres/le-jacquard-francais/index.html"
 to = "/fr/organisations/le-jacquard-francais/"
 
 [[redirects]]
-from = "/en/exhibitions/"
+from = "/en/exhibitions/index.html"
 to = "/en/actions/exhibitions/"
 
 [[redirects]]
-from = "/fr/membres/atelier-landes/"
+from = "/fr/membres/atelier-landes/index.html"
 to = "/fr/organisations/atelier-landes/"
 
 [[redirects]]
-from = "/membres/atelier-landes/"
+from = "/membres/atelier-landes/index.html"
 to = "/fr/organisations/atelier-landes/"
 
 [[redirects]]
-from = "/equipe/elsa-dinerstein/"
+from = "/equipe/elsa-dinerstein/index.html"
 to = "/fr/equipe/elsa-dinerstein/"
 
 [[redirects]]
-from = "/e-showroom/"
+from = "/e-showroom/index.html"
 to = "/fr/e-showroom/"
 
 [[redirects]]
-from = "/fr/membres/le-jacquard-francais/"
+from = "/fr/membres/le-jacquard-francais/index.html"
 to = "/fr/organisations/le-jacquard-francais/"
 
 [[redirects]]
-from = "/fr/actualites/2023-09-07-pour-une-innovation-publique-et-une-economie-des-metiers-d-art/"
+from = "/fr/actualites/2023-09-07-pour-une-innovation-publique-et-une-economie-des-metiers-d-art/index.html"
 to = "/fr/actualites/2024-11-15-pour-une-innovation-publique-et-une-economie-des-metiers-d-art/"
 
 [[redirects]]
-from = "/actions/prototypes/"
+from = "/actions/prototypes/index.html"
 to = "/fr/actions/evenements-salons/prototype/"
 
 [[redirects]]
-from = "/posts/"
+from = "/posts/index.html"
 to = "/en/posts/"
 
 [[redirects]]
-from = "/organisations/maison-carminati/"
+from = "/organisations/maison-carminati/index.html"
 to = "/fr/organisations/maison-carminati/"
 
 [[redirects]]
-from = "/actualites/2024-09-30-nouveau-cycle-de-rencontres-des-savoir-faire/"
+from = "/actualites/2024-09-30-nouveau-cycle-de-rencontres-des-savoir-faire/index.html"
 to = "/fr/actualites/2024-09-30-nouveau-cycle-de-rencontres-des-savoir-faire-automne-hiver-2024/"
 
 [[redirects]]
-from = "/agenda/2025-03-03-ia-intelligence-artisanale/"
+from = "/agenda/2025-03-03-ia-intelligence-artisanale/index.html"
 to = "/fr/agenda/2025/ia-intelligence-artisanale/"
 
 [[redirects]]
-from = "/fr/membres/senequier/"
+from = "/fr/membres/senequier/index.html"
 to = "/fr/organisations/senequier/"
 
 [[redirects]]
-from = "/fr/membres/nosqua/"
+from = "/fr/membres/nosqua/index.html"
 to = "/fr/organisations/nosqua/"
 
 [[redirects]]
-from = "/fr/agenda/2024-12-12-pour-une-innovation-publique-et-une-economie-des-metiers-dart/"
+from = "/fr/agenda/2024-12-12-pour-une-innovation-publique-et-une-economie-des-metiers-dart/index.html"
 to = "/fr/agenda/2024/pour-une-innovation-publique-et-une-economie-des-metiers-dart/"
 
 [[redirects]]
-from = "/fr/actualites/2024-09-30-rencontres-des-savoir-faire/"
+from = "/fr/actualites/2024-09-30-rencontres-des-savoir-faire/index.html"
 to = "/fr/actualites/2024-09-30-nouveau-cycle-de-rencontres-des-savoir-faire-automne-hiver-2024/"
 
 [[redirects]]
-from = "/agenda/2025/06/"
+from = "/agenda/2025/06/index.html"
 to = "/fr/agenda/2025/06/"
 
 [[redirects]]
-from = "/fr/actions/ressources/evenements-salons/"
+from = "/fr/actions/ressources/evenements-salons/index.html"
 to = "/fr/actions/evenements-salons/"
 
 [[redirects]]
-from = "/agenda/2025/rencontres-des-savoir-faire-printemps-2025/2025-05-20-la-nature-comme-ressource-quoi-de-nouveau/"
+from = "/agenda/2025/rencontres-des-savoir-faire-printemps-2025/2025-05-20-la-nature-comme-ressource-quoi-de-nouveau/index.html"
 to = "/fr/agenda/2025/rencontres-des-savoir-faire-printemps-2025/la-nature-comme-ressource-quoi-de-nouveau/"
 
 [[redirects]]
-from = "/fr/actions/workshop-cocreation-augmentee-de-l-algorithme-a-l-objet/"
+from = "/fr/actions/workshop-cocreation-augmentee-de-l-algorithme-a-l-objet/index.html"
 to = "/fr/actions/workshops/workshop-cocreation-augmentee-de-l-algorithme-a-l-objet/"
 
 [[redirects]]
-from = "/organisations/les-chanvres-de-latlantique/"
+from = "/organisations/les-chanvres-de-latlantique/index.html"
 to = "/fr/organisations/les-chanvres-de-latlantique/"
 
 [[redirects]]
-from = "/agenda/2025/02/"
+from = "/agenda/2025/02/index.html"
 to = "/fr/agenda/2025/02/"
 
 [[redirects]]
-from = "/membres/atelier-lucile-viaud/"
+from = "/membres/atelier-lucile-viaud/index.html"
 to = "/fr/organisations/atelier-lucile-viaud/"
 
 [[redirects]]
-from = "/agenda/2025/rencontres-des-savoir-faire-printemps-2025/2025-03-25-lart-de-recupererrecycler-ou-comment-la-contrainte-devient-un-levier-de-creativite/"
+from = "/agenda/2025/rencontres-des-savoir-faire-printemps-2025/2025-03-25-lart-de-recupererrecycler-ou-comment-la-contrainte-devient-un-levier-de-creativite/index.html"
 to = "/fr/agenda/2025/rencontres-des-savoir-faire-printemps-2025/lart-de-recupererrecycler-ou-comment-la-contrainte-devient-un-levier-de-creativite/"
 
 [[redirects]]
-from = "/actualites/2022-03-26-un-beau-gestes/"
+from = "/actualites/2022-03-26-un-beau-gestes/index.html"
 to = "/fr/actualites/2022-03-26-un-beau-gestes/"
 
 [[redirects]]
-from = "/actions/ressources/evenements-salons/"
+from = "/actions/ressources/evenements-salons/index.html"
 to = "/fr/actions/evenements-salons/"
 
 [[redirects]]
-from = "/en/posts/2022-02-10-workshop-chez-carlin-creative/"
+from = "/en/posts/2022-02-10-workshop-chez-carlin-creative/index.html"
 to = "/en/posts/2022-02-10-workshop-at-carlin-creative/"
 
 [[redirects]]
-from = "/fr/agenda/2025/rencontres-des-savoir-faire-printemps-2025/2025-05-20-la-nature-comme-ressource-quoi-de-nouveau/"
+from = "/fr/agenda/2025/rencontres-des-savoir-faire-printemps-2025/2025-05-20-la-nature-comme-ressource-quoi-de-nouveau/index.html"
 to = "/fr/agenda/2025/rencontres-des-savoir-faire-printemps-2025/la-nature-comme-ressource-quoi-de-nouveau/"
 
 [[redirects]]
-from = "/organisations/daumet/"
+from = "/organisations/daumet/index.html"
 to = "/fr/organisations/daumet/"
 
 [[redirects]]
-from = "/membres/arthylae/"
+from = "/membres/arthylae/index.html"
 to = "/fr/organisations/arthylae/"
 
 [[redirects]]
-from = "/en/actions/resources/events-exhibitions/"
+from = "/en/actions/resources/events-exhibitions/index.html"
 to = "/en/actions/events-exhibitions/"
 
 [[redirects]]
-from = "/fr/agenda/2025/rencontres-des-savoir-faire-printemps-2025/2025-04-29-les-acteurs-du-faire-les-nouveaux-poles-integratifs-des-metiers-dart/"
+from = "/fr/agenda/2025/rencontres-des-savoir-faire-printemps-2025/2025-04-29-les-acteurs-du-faire-les-nouveaux-poles-integratifs-des-metiers-dart/index.html"
 to = "/fr/agenda/2025/rencontres-des-savoir-faire-printemps-2025/les-acteurs-du-faire-les-nouveaux-poles-integratifs-des-metiers-dart/"
 
 [[redirects]]
-from = "/actualites/2022-03-24-tissages-d-art-innovants/"
+from = "/actualites/2022-03-24-tissages-d-art-innovants/index.html"
 to = "/fr/actualites/2022-03-24-tissages-d-art-innovants/"
 
 [[redirects]]
-from = "/membres/daumet/"
+from = "/membres/daumet/index.html"
 to = "/fr/organisations/daumet/"
 
 [[redirects]]
-from = "/agenda/2025/lart-de-recuperer-recycler-ou-comment-la-contrainte-devient-un-levier-de-creativite/"
+from = "/agenda/2025/lart-de-recuperer-recycler-ou-comment-la-contrainte-devient-un-levier-de-creativite/index.html"
 to = "/fr/agenda/2025/lart-de-recuperer-recycler-ou-comment-la-contrainte-devient-un-levier-de-creativite/"
 
 [[redirects]]
-from = "/actualites/2022-04-26-french-craft-x-fondation-banque-populaire/"
+from = "/actualites/2022-04-26-french-craft-x-fondation-banque-populaire/index.html"
 to = "/fr/actualites/2022-04-26-french-craft-x-fondation-banque-populaire/"
 
 [[redirects]]
-from = "/organisations/maceo-paris/"
+from = "/organisations/maceo-paris/index.html"
 to = "/fr/organisations/maceo-paris/"
 
 [[redirects]]
-from = "/membres/virginie-brunet/"
+from = "/membres/virginie-brunet/index.html"
 to = "/fr/organisations/virginie-brunet/"
 
