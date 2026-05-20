@@ -1,0 +1,22 @@
+.events__page
+    @include media-breakpoint-up(desktop)
+        .hero
+            .content
+                figure
+                    order: 2
+                .hero-text
+                    h1
+                        margin: auto
+                .hero-actions
+                    position: absolute
+                    bottom: calc(#{-$spacing-7} + #{$spacing-4})
+                    transform: translateY(-100%)
+        .event-access
+            .event-time-slot 
+                .date
+                    width: columns(3)
+    @include media-breakpoint-down(desktop)
+        .hero-actions
+            button
+                --btn-color: var(--color-background)
+                --btn-border: 1px solid var(--color-background)
