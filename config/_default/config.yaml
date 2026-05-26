@@ -2,7 +2,7 @@ theme: osuny
 _merge: deep
 params:
   debug:
-    productionUrl: https://site.frenchcraftguild.osuny.site
+    productionUrl: https://www.frenchcraftguild.fr
   breadcrumb:
     position: after-hero-title
   home:
