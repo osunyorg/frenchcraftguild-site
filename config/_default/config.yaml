@@ -24,6 +24,10 @@ params:
     index:
       options:
         summary: false
+  projects:
+    index: 
+      layout: alternate
+      truncate_description: 0
   posts:
     index:
       layout: list
