@@ -204,7 +204,7 @@ to = "/fr/actions/webinaires/"
 
 [[redirects]]
 from = "/projets/index.html"
-to = "/fr/projets/"
+to = "/fr/e-showroom-1/"
 
 [[redirects]]
 from = "/membres/artisans-davenir/index.html"
@@ -677,6 +677,10 @@ to = "/fr/organisations/categories/membres/"
 [[redirects]]
 from = "/actualites/2023-04-04-metiers-dart-et-biodesign/index.html"
 to = "/fr/actualites/2023-04-04-metiers-dart-et-biodesign/"
+
+[[redirects]]
+from = "/fr/projets/index.html"
+to = "/fr/e-showroom-1/"
 
 [[redirects]]
 from = "/membres/jauh/index.html"
