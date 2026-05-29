@@ -24,7 +24,7 @@ to = "/fr/agenda/2024/06/"
 
 [[redirects]]
 from = "/fr/projets/1974-les-architectures-de-papier-procedes-chenel/index.html"
-to = "/fr/e-showroom-1/1974-les-architectures-de-papier-procedes-chenel/"
+to = "/fr/e-showroom/1974-les-architectures-de-papier-procedes-chenel/"
 
 [[redirects]]
 from = "/agenda/2025/11/index.html"
@@ -665,6 +665,10 @@ to = "/fr/agenda/2025/rencontres-des-savoir-faire-printemps-2025/les-acteurs-du-
 [[redirects]]
 from = "/agenda/2025/10/index.html"
 to = "/fr/agenda/2025/10/"
+
+[[redirects]]
+from = "/fr/e-showroom-1/1974-les-architectures-de-papier-procedes-chenel/index.html"
+to = "/fr/e-showroom/1974-les-architectures-de-papier-procedes-chenel/"
 
 [[redirects]]
 from = "/a-propos/vision-missions/index.html"
