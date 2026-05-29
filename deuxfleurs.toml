@@ -175,6 +175,10 @@ from = "/actualites/2024-09-30-nouveau-cycle-de-rencontres-des-savoir-faire-auto
 to = "/fr/actualites/2024-09-30-nouveau-cycle-de-rencontres-des-savoir-faire-automne-hiver-2024/"
 
 [[redirects]]
+from = "/fr/projets/2020-le-drop-cake/index.html"
+to = "/fr/e-showroom/2020-le-drop-cake/"
+
+[[redirects]]
 from = "/fr/expositions/archives-expositions/index.html"
 to = "/fr/actions/expositions/archives-expositions/"
 
