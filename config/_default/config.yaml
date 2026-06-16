@@ -40,3 +40,8 @@ params:
           mobile:   400
           tablet:   500
           desktop:  600
+        layouts:
+          grid:
+            mobile:   400
+            tablet:   500
+            desktop:  550
