@@ -20,6 +20,8 @@ params:
     prefer_image_over_logo: true
     single:
       backlinks: true
+      meta:
+        position: content
   pages:
     index:
       options:
