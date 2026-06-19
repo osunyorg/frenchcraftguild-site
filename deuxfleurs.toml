@@ -24,7 +24,7 @@ to = "/fr/agenda/2024/06/"
 
 [[redirects]]
 from = "/fr/projets/1974-les-architectures-de-papier-procedes-chenel/index.html"
-to = "/fr/e-showroom/1974-les-architectures-de-papier-procedes-chenel/"
+to = "/fr/realisations/1974-les-architectures-de-papier-procedes-chenel/"
 
 [[redirects]]
 from = "/agenda/2025/11/index.html"
@@ -81,6 +81,10 @@ to = "/fr/a-propos/manifeste-craftpower/"
 [[redirects]]
 from = "/organisations/maison-alivon/index.html"
 to = "/fr/organisations/maison-alivon/"
+
+[[redirects]]
+from = "/fr/e-showroom/1974-les-architectures-de-papier-procedes-chenel/index.html"
+to = "/fr/realisations/1974-les-architectures-de-papier-procedes-chenel/"
 
 [[redirects]]
 from = "/agenda/2024/07/index.html"
@@ -176,7 +180,7 @@ to = "/fr/actualites/2024-09-30-nouveau-cycle-de-rencontres-des-savoir-faire-aut
 
 [[redirects]]
 from = "/fr/projets/2020-le-drop-cake/index.html"
-to = "/fr/e-showroom/2020-le-drop-cake/"
+to = "/fr/realisations/2020-le-drop-cake/"
 
 [[redirects]]
 from = "/fr/expositions/archives-expositions/index.html"
@@ -471,6 +475,10 @@ from = "/membres/categories/partenaires/index.html"
 to = "/fr/organisations/categories/partenaires/"
 
 [[redirects]]
+from = "/fr/e-showroom/2020-le-drop-cake/index.html"
+to = "/fr/realisations/2020-le-drop-cake/"
+
+[[redirects]]
 from = "/equipe/magali-lancien/index.html"
 to = "/fr/equipe/magali-lancien/"
 
@@ -676,7 +684,7 @@ to = "/fr/agenda/2025/10/"
 
 [[redirects]]
 from = "/fr/e-showroom-1/1974-les-architectures-de-papier-procedes-chenel/index.html"
-to = "/fr/e-showroom/1974-les-architectures-de-papier-procedes-chenel/"
+to = "/fr/realisations/1974-les-architectures-de-papier-procedes-chenel/"
 
 [[redirects]]
 from = "/a-propos/vision-missions/index.html"
@@ -689,6 +697,10 @@ to = "/fr/actualites/2022-02-10-workshop-chez-carlin-creative/"
 [[redirects]]
 from = "/en/agenda/2025/know-how-meetings-spring-2025-1/index.html"
 to = "/en/agenda/2026/know-how-meetings-spring-2026/"
+
+[[redirects]]
+from = "/fr/e-showroom/prototype/index.html"
+to = "/fr/realisations/prototype/"
 
 [[redirects]]
 from = "/membres/categories/membres/index.html"
