@@ -104,7 +104,7 @@ to = "/fr/agenda/2025/rencontres-des-savoir-faire-printemps-2025/"
 
 [[redirects]]
 from = "/fr/e-showroom-1/index.html"
-to = "/fr/e-showroom/"
+to = "/fr/realisations/"
 
 [[redirects]]
 from = "/equipe/pascale-lesage/index.html"
@@ -216,7 +216,7 @@ to = "/fr/actions/webinaires/"
 
 [[redirects]]
 from = "/projets/index.html"
-to = "/fr/e-showroom/"
+to = "/fr/realisations/"
 
 [[redirects]]
 from = "/membres/artisans-davenir/index.html"
@@ -341,6 +341,10 @@ to = "/fr/actions/expositions/"
 [[redirects]]
 from = "/webinaires/index.html"
 to = "/fr/actions/webinaires/"
+
+[[redirects]]
+from = "/fr/e-showroom/2025-vase-silhouette/index.html"
+to = "/fr/realisations/2025-vase-silhouette/"
 
 [[redirects]]
 from = "/fr/actions/e-showroom/index.html"
@@ -696,7 +700,7 @@ to = "/fr/actualites/2023-04-04-metiers-dart-et-biodesign/"
 
 [[redirects]]
 from = "/fr/projets/index.html"
-to = "/fr/e-showroom/"
+to = "/fr/realisations/"
 
 [[redirects]]
 from = "/membres/jauh/index.html"
