@@ -28,6 +28,10 @@ params:
     index: 
       layout: alternate
       truncate_description: 0
+    single:
+      meta:
+        options:
+          reading_time: false
   posts:
     index:
       layout: list
