@@ -30,6 +30,12 @@ params:
     index: 
       layout: alternate
       truncate_description: 0
+    single:
+      meta:
+        position: content
+        options:
+          reading_time: false
+          with_labels: false
   posts:
     index:
       layout: list

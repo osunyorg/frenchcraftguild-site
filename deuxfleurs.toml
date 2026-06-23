@@ -24,7 +24,7 @@ to = "/fr/agenda/2024/06/"
 
 [[redirects]]
 from = "/fr/projets/1974-les-architectures-de-papier-procedes-chenel/index.html"
-to = "/fr/e-showroom/1974-les-architectures-de-papier-procedes-chenel/"
+to = "/fr/realisations/1974-les-architectures-de-papier-procedes-chenel/"
 
 [[redirects]]
 from = "/agenda/2025/11/index.html"
@@ -83,6 +83,10 @@ from = "/organisations/maison-alivon/index.html"
 to = "/fr/organisations/maison-alivon/"
 
 [[redirects]]
+from = "/fr/e-showroom/1974-les-architectures-de-papier-procedes-chenel/index.html"
+to = "/fr/realisations/1974-les-architectures-de-papier-procedes-chenel/"
+
+[[redirects]]
 from = "/agenda/2024/07/index.html"
 to = "/fr/agenda/2024/07/"
 
@@ -104,7 +108,7 @@ to = "/fr/agenda/2025/rencontres-des-savoir-faire-printemps-2025/"
 
 [[redirects]]
 from = "/fr/e-showroom-1/index.html"
-to = "/fr/e-showroom/"
+to = "/fr/realisations/"
 
 [[redirects]]
 from = "/equipe/pascale-lesage/index.html"
@@ -176,7 +180,7 @@ to = "/fr/actualites/2024-09-30-nouveau-cycle-de-rencontres-des-savoir-faire-aut
 
 [[redirects]]
 from = "/fr/projets/2020-le-drop-cake/index.html"
-to = "/fr/e-showroom/2020-le-drop-cake/"
+to = "/fr/realisations/2020-le-drop-cake/"
 
 [[redirects]]
 from = "/fr/expositions/archives-expositions/index.html"
@@ -216,7 +220,7 @@ to = "/fr/actions/webinaires/"
 
 [[redirects]]
 from = "/projets/index.html"
-to = "/fr/e-showroom/"
+to = "/fr/realisations/"
 
 [[redirects]]
 from = "/membres/artisans-davenir/index.html"
@@ -343,6 +347,10 @@ from = "/webinaires/index.html"
 to = "/fr/actions/webinaires/"
 
 [[redirects]]
+from = "/fr/e-showroom/2025-vase-silhouette/index.html"
+to = "/fr/realisations/2025-vase-silhouette/"
+
+[[redirects]]
 from = "/fr/actions/e-showroom/index.html"
 to = "/fr/e-showroom/"
 
@@ -465,6 +473,10 @@ to = "/fr/a-propos/gouvernance/"
 [[redirects]]
 from = "/membres/categories/partenaires/index.html"
 to = "/fr/organisations/categories/partenaires/"
+
+[[redirects]]
+from = "/fr/e-showroom/2020-le-drop-cake/index.html"
+to = "/fr/realisations/2020-le-drop-cake/"
 
 [[redirects]]
 from = "/equipe/magali-lancien/index.html"
@@ -672,7 +684,7 @@ to = "/fr/agenda/2025/10/"
 
 [[redirects]]
 from = "/fr/e-showroom-1/1974-les-architectures-de-papier-procedes-chenel/index.html"
-to = "/fr/e-showroom/1974-les-architectures-de-papier-procedes-chenel/"
+to = "/fr/realisations/1974-les-architectures-de-papier-procedes-chenel/"
 
 [[redirects]]
 from = "/a-propos/vision-missions/index.html"
@@ -687,6 +699,10 @@ from = "/en/agenda/2025/know-how-meetings-spring-2025-1/index.html"
 to = "/en/agenda/2026/know-how-meetings-spring-2026/"
 
 [[redirects]]
+from = "/fr/e-showroom/prototype/index.html"
+to = "/fr/realisations/prototype/"
+
+[[redirects]]
 from = "/membres/categories/membres/index.html"
 to = "/fr/organisations/categories/membres/"
 
@@ -696,7 +712,7 @@ to = "/fr/actualites/2023-04-04-metiers-dart-et-biodesign/"
 
 [[redirects]]
 from = "/fr/projets/index.html"
-to = "/fr/e-showroom/"
+to = "/fr/realisations/"
 
 [[redirects]]
 from = "/membres/jauh/index.html"
