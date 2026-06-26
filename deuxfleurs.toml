@@ -963,6 +963,10 @@ from = "/agenda/2025/rencontres-des-savoir-faire-printemps-2025/2025-03-25-lart-
 to = "/fr/agenda/2025/rencontres-des-savoir-faire-printemps-2025/lart-de-recupererrecycler-ou-comment-la-contrainte-devient-un-levier-de-creativite/"
 
 [[redirects]]
+from = "/fr/organisations/violaine-martel/index.html"
+to = "/fr/organisations/terre-de-songes/"
+
+[[redirects]]
 from = "/actualites/2022-03-26-un-beau-gestes/index.html"
 to = "/fr/actualites/2022-03-26-un-beau-gestes/"
 
