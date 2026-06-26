@@ -22,6 +22,8 @@ params:
       backlinks: true
       meta:
         position: content
+        options:
+          taxonomies: false
   pages:
     index:
       options:
