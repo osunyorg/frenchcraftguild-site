@@ -2,7 +2,10 @@
     body:not(.full-width),
     .organizations__page
         .section-sidebar
-            width: columns(3) !important
+            .meta-container
+                padding-left: offset(3)
+            .content-meta
+                width: columns(6) !important
             > div
                 position: static !important
             .post-infos
@@ -91,10 +94,6 @@
                     .block-content
                         padding-left: offset(3)
                         width: columns(9)
-    
-    .organizations__page
-        .section-sidebar
-            margin-left: offset(3) !important
 
     .events__page,
     .projects__page

@@ -1,10 +1,8 @@
 .organizations
     &__page
-        @include media-breakpoint-up(desktop)
-            .contacts-details
-                margin-left: offset(3)
-                width: columns(6)
         .document-content
+            > .container:has(.organization-presentation-container:empty)
+                display: none !important
             .organization-presentation-container
                 @include media-breakpoint-up(desktop)
                     margin-left: offset(3)
