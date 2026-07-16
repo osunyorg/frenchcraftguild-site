@@ -347,10 +347,6 @@ from = "/webinaires/index.html"
 to = "/fr/actions/webinaires/"
 
 [[redirects]]
-from = "/fr/e-showroom/2025-vase-silhouette/index.html"
-to = "/fr/realisations/2025-vase-silhouette/"
-
-[[redirects]]
 from = "/fr/actions/e-showroom/index.html"
 to = "/fr/e-showroom/"
 
