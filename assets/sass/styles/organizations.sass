@@ -1,8 +1,14 @@
 .organizations
     &__page
         .document-content
-            > .container:has(.organization-presentation-container:empty)
-                display: none !important
+            > .container
+                position: relative
+                .organization-presentation-container:empty
+                    display: none !important
+                @include media-breakpoint-up(desktop)
+                    .organization-logo
+                        position: absolute
+                        right: var(--grid-gutter)
             .organization-presentation-container
                 @include media-breakpoint-up(desktop)
                     margin-left: offset(3)
