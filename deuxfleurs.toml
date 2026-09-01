@@ -123,8 +123,16 @@ from = "/ressources/workshops/index.html"
 to = "/fr/actions/workshops/"
 
 [[redirects]]
+from = "/fr/fichiers/2026/index.html"
+to = "/fr/fichiers/2026/programme-laboratoire-pratiques-durablespdf/"
+
+[[redirects]]
 from = "/organisations/luxdawn/index.html"
 to = "/fr/organisations/lyse-drouaine/"
+
+[[redirects]]
+from = "/en/2026/index.html"
+to = "/en/2026/programme-laboratoire-pratiques-durablespdf/"
 
 [[redirects]]
 from = "/agenda/2024-11-18-festival-fairespectives-au-campus-versailles/index.html"
