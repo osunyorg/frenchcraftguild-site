@@ -132,7 +132,7 @@ to = "/fr/organisations/lyse-drouaine/"
 
 [[redirects]]
 from = "/en/2026/index.html"
-to = "/en/2026/programme-laboratoire-pratiques-durablespdf/"
+to = "/en/files/2026/programme-laboratoire-pratiques-durablespdf/"
 
 [[redirects]]
 from = "/agenda/2024-11-18-festival-fairespectives-au-campus-versailles/index.html"
@@ -231,6 +231,10 @@ from = "/projets/index.html"
 to = "/fr/realisations/"
 
 [[redirects]]
+from = "/en/2026/jep2022-synthese-1pdf/index.html"
+to = "/en/files/2026/jep2022-synthese-1pdf/"
+
+[[redirects]]
 from = "/membres/artisans-davenir/index.html"
 to = "/organisations/artisans-davenir/"
 
@@ -257,6 +261,10 @@ to = "/en/posts/2025-10-06-first-augmented-co-creation-workshop/"
 [[redirects]]
 from = "/en/organizations/luxdawn/index.html"
 to = "/en/organizations/lyse-drouaine/"
+
+[[redirects]]
+from = "/en/2026/mlcraft-synthesepdf/index.html"
+to = "/en/files/2026/mlcraft-synthesepdf/"
 
 [[redirects]]
 from = "/en/actions/resources/workshops/index.html"
@@ -379,6 +387,10 @@ from = "/membres/senequier/index.html"
 to = "/fr/organisations/senequier/"
 
 [[redirects]]
+from = "/en/2026/workshop-co-creation-augmenteepdf/index.html"
+to = "/en/files/2026/workshop-co-creation-augmenteepdf/"
+
+[[redirects]]
 from = "/fr/membres/maceo-paris/index.html"
 to = "/fr/organisations/maceo-paris/"
 
@@ -401,6 +413,10 @@ to = "/fr/actualites/2024-09-30-nouveau-cycle-de-rencontres-des-savoir-faire-aut
 [[redirects]]
 from = "/organisations/odp/index.html"
 to = "/fr/organisations/odp/"
+
+[[redirects]]
+from = "/en/2026/craft-powerpdf/index.html"
+to = "/en/files/2026/craft-powerpdf/"
 
 [[redirects]]
 from = "/fr/membres/daumet/index.html"
@@ -583,6 +599,10 @@ from = "/a-propos/actions/index.html"
 to = "/fr/actions/"
 
 [[redirects]]
+from = "/en/2026/programme-workshop-jauh-laboratory-2025-2026pdf/index.html"
+to = "/en/files/2026/programme-workshop-jauh-laboratory-2025-2026pdf/"
+
+[[redirects]]
 from = "/fr/membres/arthylae/index.html"
 to = "/fr/organisations/arthylae/"
 
@@ -723,6 +743,10 @@ from = "/membres/jauh/index.html"
 to = "/fr/organisations/jauh/"
 
 [[redirects]]
+from = "/en/2026/programme-laboratoire-pratiques-durablespdf/index.html"
+to = "/en/files/2026/programme-laboratoire-pratiques-durablespdf/"
+
+[[redirects]]
 from = "/agenda/2024/09/index.html"
 to = "/fr/agenda/2024/09/"
 
@@ -769,6 +793,14 @@ to = "/fr/organisations/nosqua/"
 [[redirects]]
 from = "/agenda/2025/09/index.html"
 to = "/fr/agenda/2025/09/"
+
+[[redirects]]
+from = "/en/2026/rencontres-des-savoir-faire-mars-mai-25pdf/index.html"
+to = "/en/files/2026/rencontres-des-savoir-faire-mars-mai-25pdf/"
+
+[[redirects]]
+from = "/en/2026/rencontre-des-savoir-faire-nov-janv-24pdf/index.html"
+to = "/en/files/2026/rencontre-des-savoir-faire-nov-janv-24pdf/"
 
 [[redirects]]
 from = "/partenaires/index.html"
