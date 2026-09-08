@@ -376,7 +376,7 @@ to = "/fr/plan-du-site/"
 
 [[redirects]]
 from = "/fr/projets/2020-les-couleurs-de-roche/index.html"
-to = "/fr/realisations/2020-les-couleurs-de-roche/"
+to = "/fr/realisations/2020-couleurs-de-roche/"
 
 [[redirects]]
 from = "/actualites/2023-09-07-french-craft-x-the-odp-letter/index.html"
@@ -593,6 +593,10 @@ to = "/fr/organisations/atelier-elsa-dinerstein/"
 [[redirects]]
 from = "/agenda/2025/04/index.html"
 to = "/fr/agenda/2025/04/"
+
+[[redirects]]
+from = "/fr/realisations/2020-les-couleurs-de-roche/index.html"
+to = "/fr/realisations/2020-couleurs-de-roche/"
 
 [[redirects]]
 from = "/fr/a-propos/manifeste/index.html"
