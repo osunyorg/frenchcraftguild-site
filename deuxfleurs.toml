@@ -375,6 +375,10 @@ from = "/plan-du-site/index.html"
 to = "/fr/plan-du-site/"
 
 [[redirects]]
+from = "/fr/projets/2020-les-couleurs-de-roche/index.html"
+to = "/fr/realisations/2020-les-couleurs-de-roche/"
+
+[[redirects]]
 from = "/actualites/2023-09-07-french-craft-x-the-odp-letter/index.html"
 to = "/fr/actualites/2023-09-07-french-craft-x-the-odp-letter/"
 
