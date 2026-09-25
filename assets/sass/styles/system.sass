@@ -8,8 +8,9 @@ header#document-header
     // No "menu" label on mobile, logo is too big 
     nav:not(.upper-menu)
         .header-button
-            span:first-of-type
-                display: none
+            .button-title
+                @include sr-only
+
     @include media-breakpoint-down(desktop)
         .dropdown-menu-heading
             display: none
